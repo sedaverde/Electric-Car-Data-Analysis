@@ -1,0 +1,1767 @@
+Model Year,Model,Manufacturer,Manufacturer ID,Vehicle ID,Category,Fuel,Fuel ID,Transmission Type,Engine Description
+2010,Altima,Nissan,217,941,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Camry,Toyota,221,943,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Civic Hybrid,Honda,209,935,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Escalade Hybrid,Cadillac,231,946,SUV,Hybrid Electric,45,Automatic,
+2010,Escape Hybrid,Ford,219,945,SUV,Hybrid Electric,45,Automatic,
+2010,Fusion Hybrid FWD,Ford,219,914,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,HS 250h,Lexus,243,931,Sedan/Wagon,Hybrid Electric,45,"V6, Hybrid, 3.5L",
+2010,Highlander,Toyota,221,948,SUV,Hybrid Electric,45,Automatic,
+2010,Insight,Honda,209,986,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Malibu LS,Chevrolet,215,936,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Mariner Hybrid,Mercury,233,949,SUV,Hybrid Electric,45,Automatic,
+2010,Milan Hybrid,Mercury,233,956,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Prius 10,Toyota,221,915,Sedan/Wagon,Hybrid Electric,45,Continuously Variable,
+2010,RX 450h,Lexus,243,930,SUV,Hybrid Electric,45,Automatic CVT,
+2010,Roadster,Tesla,237,955,Sedan/Wagon,Electric,41,,
+2010,S400 Hybrid,Mercedes-Benz,239,944,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2010,Silverado 1500,Chevrolet,215,939,Pickup,Hybrid Electric,45,Automatic,
+2010,Tahoe Hybrid,Chevrolet,215,937,SUV,Hybrid Electric,45,Automatic,
+2010,Tribute Hybrid,Mazda,229,947,SUV,Hybrid Electric,45,Automatic,
+2010,X6 Active Hybrid,BMW,211,984,Sedan/Wagon,Hybrid Electric,45,,
+2010,Yukon 1500,GMC,213,938,SUV,Hybrid Electric,45,Automatic,
+2011,Active Hybrid 7,BMW,211,10099,Sedan/Wagon,Hybrid Electric,45,Semi-Automatic,
+2011,Active Hybrid 7L,BMW,211,10100,Sedan/Wagon,Hybrid Electric,45,Semi-Automatic,
+2011,Active Hybrid X6,BMW,211,10101,SUV,Hybrid Electric,45,Semi-Automatic,
+2011,Altima Hybrid,Nissan,217,10059,Sedan/Wagon,Hybrid Electric,45,Automatic / 5 speed,
+2011,CR-Z,Honda,209,10094,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,CT 200h,Lexus,243,10051,Sedan/Wagon,Hybrid Electric,45,,
+2011,Camry Hybrid,Toyota,221,10064,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Civic Hybrid,Honda,209,10092,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Civic Hybrid,Honda,209,10020,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Escalade Hybrid,Cadillac,231,10075,SUV,Hybrid Electric,45,Automatic / Variable,
+2011,Escape Hybrid,Ford,219,10081,SUV,Hybrid Electric,45,Automatic / Variable,
+2011,Ford  Azure Transit Connect,Ford,219,10200,Van,Electric,41,,
+2011,Fusion Hybrid,Ford,219,10082,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Fusion Hybrid,Ford,219,10083,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,GS 450h,Lexus,243,10053,Sedan/Wagon,Hybrid Electric,45,,
+2011,HS 250h,Lexus,243,10052,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Highlander Hybrid,Toyota,221,10065,SUV,Hybrid Electric,45,Automatic / Variable,
+2011,Insight LX Hybrid,Honda,209,10091,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,LEAF,Nissan,217,10058,Sedan/Wagon,Electric,41,None,
+2011,LS 600h,Lexus,243,10054,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Leaf,Nissan,217,10128,Sedan/Wagon,Electric,41,None,
+2011,MKZ Hybrid,Lincoln,227,10084,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,ML450 4Matic Hybrid,Mercedes-Benz,239,10049,SUV,Hybrid Electric,45,Automatic / 7 speed,
+2011,Mariner Hybrid,Mercury,233,10086,SUV,Hybrid Electric,45,Automatic / Variable,
+2011,Milan Hybrid,Mercury,233,10085,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,Prius,Toyota,221,10063,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2011,RX 450h,Lexus,243,10055,SUV,Hybrid Electric,45,Automatic / Variable,
+2011,Roadster 2.5,Tesla,237,10060,Sedan/Wagon,Electric,41,,
+2011,S400 Hybrid,Mercedes-Benz,239,10048,Sedan/Wagon,Hybrid Electric,45,Automatic / 7 speed,
+2011,Sierra 1500 Hybrid,GMC,213,10079,Pickup,Hybrid Electric,45,Automatic / Variable,
+2011,Silverado 1500 Hybrid,Chevrolet,215,10078,Pickup,Hybrid Electric,45,Automatic / Variable,
+2011,Sonata Hybrid,Hyundai,351,10127,Sedan/Wagon,Hybrid Electric,45,Automatic,
+2011,Tahoe 1500 Hybrid,Chevrolet,215,10076,SUV,Hybrid Electric,45,Automatic / Variable,
+2011,Touareg Hybrid,Volkswagen,347,10066,SUV,Hybrid Electric,45,Automatic / 8 speed,
+2011,Tribute 2WD Hybrid,Mazda,229,10019,SUV,Hybrid Electric,45,Automatic,
+2011,Volt,Chevrolet,215,10126,Sedan/Wagon,Plug-in Hybrid Electric,57,,
+2011,Yukon 1500 Hybrid,GMC,213,10077,SUV,Hybrid Electric,45,Automatic / Variable,
+2012,ActiveHybrid 7,BMW,211,10281,Sedan/Wagon,Hybrid Electric,45,Semi-Automatic,
+2012,Altima Hybrid,Nissan,217,10374,Sedan/Wagon,Hybrid Electric,45,Automatic / Variable,
+2012,CODA,Coda Automotive,363,10420,Sedan/Wagon,Electric,41,Automatic,
+2012,CR-Z Hybrid,Honda,209,10356,Sedan/Wagon,Hybrid Electric,45,Manual / 6 speed,
+2012,CT 200h,Lexus,243,10362,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,Camry Hybrid,Toyota,221,10383,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,Cayenne S Hybrid,Porsche,391,10376,SUV,Hybrid Electric,45,Automatic / 8 speed,
+2012,Civic Hybrid,Honda,209,10355,Sedan/Wagon,Hybrid Electric,45,CVT,
+2012,Escalade Hybrid,Cadillac,231,10320,SUV,Hybrid Electric,45,Automatic / 4 speed,
+2012,Escape Hybrid FWD/4WD,Ford,219,10312,SUV,Hybrid Electric,45,ECVT,
+2012,Fit EV,Honda,209,10357,Sedan/Wagon,Electric,41,3 mode / 1 speed,
+2012,Focus EV,Ford,219,10303,Sedan/Wagon,Electric,41,,
+2012,Ford Azure Transit Connect,Ford,219,10304,Van,Electric,41,,
+2012,Fusion Hybrid,Ford,219,10313,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,GS 450h,Lexus,243,10364,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,HS 250h,Lexus,243,10363,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,Highlander Hybrid,Toyota,221,10384,SUV,Hybrid Electric,45,ECVT,
+2012,Insight,Honda,209,10354,Sedan/Wagon,Hybrid Electric,45,CVT,
+2012,Karma,Fisker Automotive,367,10660,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,
+2012,LS 600h L,Lexus,243,10366,Sedan/Wagon,Hybrid Electric,45,ECVT / 8 speed,
+2012,LaCrosse Hybrid,Buick,235,10317,Sedan/Wagon,Hybrid Electric,45,Automatic / 6 speed,
+2012,Leaf,Nissan,217,10375,Sedan/Wagon,Electric,41,Automatic / 1 speed,
+2012,LiFe,"Wheego Electric Cars, Inc.",241,10389,Sedan/Wagon,Electric,41,,
+2012,M35h Hybrid,Infiniti,359,10360,Sedan/Wagon,Hybrid Electric,45,Automatic / 7 speed,
+2012,MKZ Hybrid,Lincoln,227,10315,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,Mitusbishi i,Mitsubishi,263,10371,Sedan/Wagon,Electric,41,,
+2012,Model S,Tesla,237,10378,Sedan/Wagon,Electric,41,Auto,
+2012,Optima Hybrid,Kia,361,10361,Sedan/Wagon,Hybrid Electric,45,Automatic / 6 speed,
+2012,Panamera S Hybrid,Porsche,391,10377,Sedan/Wagon,Hybrid Electric,45,Automatic / 8 speed,
+2012,Prius Hybrid,Toyota,221,10381,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2012,Prius Plug-in Hybrid,Toyota,221,10385,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,
+2012,Prius V,Toyota,221,10382,SUV,Hybrid Electric,45,ECVT,
+2012,RAV4 EV,Toyota,221,10386,SUV,Electric,41,,
+2012,RX 450h,Lexus,243,10365,SUV,Hybrid Electric,45,ECVT,
+2012,Regal Hybrid,Buick,235,10319,Sedan/Wagon,Hybrid Electric,45,Automatic / 6 speed,
+2012,S400 Hybrid,Mercedes-Benz,239,10369,Sedan/Wagon,Hybrid Electric,45,Automatic / 7 speed,
+2012,Sierra 1500 Hybrid,GMC,213,10350,Pickup,Hybrid Electric,45,Automatic / 4 speed,
+2012,Silverado 1500 Hybrid,Chevrolet,215,10349,Pickup,Hybrid Electric,45,Automatic / 4 speed,
+2012,Sonata Hybrid,Hyundai,351,10359,Sedan/Wagon,Hybrid Electric,45,Automatic / 6 speed,
+2012,Tahoe 1500 Hybrid,Chevrolet,215,10334,SUV,Hybrid Electric,45,Automatic / 4 speed,
+2012,Touareg Hybrid,Volkswagen,347,10388,SUV,Hybrid Electric,45,Automatic / 8 speed,
+2012,Volt,Chevrolet,215,10351,Sedan/Wagon,Plug-in Hybrid Electric,57,Automatic / 1 speed,
+2012,Yukon 1500 Hybrid,GMC,213,10335,SUV,Hybrid Electric,45,Automatic / 4 speed,
+2013,500e,Fiat,379,10491,Sedan/Wagon,Electric,41,Auto,
+2013,ActiveHybrid 3,BMW,211,10471,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,ActiveHybrid 5,BMW,211,10472,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,ActiveHybrid 7,BMW,211,10473,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Avalon,Toyota,221,10550,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,C-MAX,Ford,219,10495,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,C-MAX ENERGI,Ford,219,10493,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,
+2013,CODA,Coda Automotive,363,10474,Sedan/Wagon,Electric,41,,
+2013,CRZ,Honda,209,10522,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,CT 200h,Lexus,243,10529,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Camry,Toyota,221,10551,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Cayenne S Hybrid,Porsche,391,10544,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Civic,Honda,209,10521,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,E400,Mercedes-Benz,239,10640,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,ES 300h,Lexus,243,10530,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Escalade 2WD / AWD,Cadillac,231,10596,SUV,Hybrid Electric,45,Auto,
+2013,FIT EV,Honda,209,10524,Sedan/Wagon,Electric,41,,
+2013,Focus,Ford,219,10492,Sedan/Wagon,Electric,41,Auto,
+2013,Fusion,Ford,219,10496,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Fusion ENERGI,Ford,219,10494,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,
+2013,GS 450h,Lexus,243,10532,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Highlander,Toyota,221,10552,SUV,Hybrid Electric,45,ECVT,
+2013,ILX,Acura,365,10464,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Insight,Honda,209,10523,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Jetta Hybrid,Volkswagen,347,10559,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,LS 600h L,Lexus,243,10531,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Leaf,Nissan,217,10541,Sedan/Wagon,Electric,41,,
+2013,M35h,Infiniti,359,10527,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,MKZ,Lincoln,227,10510,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Model S,Tesla,237,10546,Sedan/Wagon,Electric,41,Auto,
+2013,Optima,Kia,361,10528,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Panamera S Hybrid,Porsche,391,10545,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Prius,Toyota,221,10548,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Prius C,Toyota,221,10547,Sedan/Wagon,Hybrid Electric,45,ECVT,
+2013,Prius Plug-in,Toyota,221,10553,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,
+2013,Prius V,Toyota,221,10549,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Q5 Hybrid,Audi,377,10470,SUV,Hybrid Electric,45,Auto,
+2013,RAV 4 EV,Toyota,221,10556,SUV,Electric,41,Auto,
+2013,RX 450h,Lexus,243,10533,SUV,Hybrid Electric,45,Auto,
+2013,S400,Mercedes-Benz,239,10538,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Sierra C / K 1500,GMC,213,10585,Pickup,Hybrid Electric,45,Auto,
+2013,Sierra C / K 1500,GMC,213,10594,Pickup,Hybrid Electric,45,Auto,
+2013,Silverado C / K 1500,Chevrolet,215,10593,Pickup,Hybrid Electric,45,Auto,
+2013,Sonata,Hyundai,351,10526,Sedan/Wagon,Hybrid Electric,45,Auto,
+2013,Tahoe 2WD / AWD,Chevrolet,215,10595,SUV,Hybrid Electric,45,Auto,
+2013,Touareg Hybrid,Volkswagen,347,10560,SUV,Hybrid Electric,45,Auto,
+2013,Volt,Chevrolet,215,10562,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,
+2013,Yukon 2WD / AWD,GMC,213,10597,SUV,Hybrid Electric,45,Auto,
+2013,Yukon Denali 2WD / AWD,GMC,213,10598,SUV,Hybrid Electric,45,Auto,
+2013,fortwo,smart,381,10539,Sedan/Wagon,Electric,41,,
+2013,i-MiEV,Mitsubishi,263,10540,Sedan/Wagon,Electric,41,,
+2013,iQ EV,Scion,353,10557,Sedan/Wagon,Electric,41,Auto,
+2014,500e,Fiat,379,11262,Sedan/Wagon,Electric,41,Auto,83kW electric motor
+2014,Accord,Honda,209,11221,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2014,Accord Plug-in Hybrid,Honda,209,11279,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4, 124 kW electric motor"
+2014,ActiveHybrid 3,BMW,211,11214,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2014,ActiveHybrid 5,BMW,211,11215,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2014,ActiveHybrid 7,BMW,211,11213,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2014,Avalon,Toyota,221,11241,Sedan/Wagon,Hybrid Electric,45,ECVT,2.5L I4
+2014,B-Class Electric,Mercedes-Benz,239,11266,Sedan/Wagon,Electric,41,Auto,100 kW electric motor
+2014,C-MAX Energi,Ford,219,11278,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4, 68 kW electric motor"
+2014,C-MAX Hybrid,Ford,219,11217,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2014,CRZ,Honda,209,11219,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2014,CT 200h,Lexus,243,11232,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2014,Camry,Toyota,221,11242,Sedan/Wagon,Hybrid Electric,45,ECVT,2.5L I4
+2014,Cayenne S Hybrid,Porsche,391,11236,SUV,Hybrid Electric,45,Auto,3.0L V6
+2014,Civic Hybrid,Honda,209,11220,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2014,E400 Hybrid,Mercedes-Benz,239,11234,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2014,ELR,Cadillac,231,11275,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4, 111 kW electric motor"
+2014,ES 300h,Lexus,243,11231,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2014,Fit,Honda,209,11264,Sedan/Wagon,Electric,41,Auto,92 kW electric motor
+2014,Focus,Ford,219,11263,Sedan/Wagon,Electric,41,Auto,107 kW electric motor
+2014,Fusion Energi,Ford,219,11277,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4, 68 kW electric motor"
+2014,Fusion Hybrid,Ford,219,11216,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2014,GS 450h,Lexus,243,11228,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2014,Highlander,Toyota,221,11243,SUV,Hybrid Electric,45,ECVT,3.5L V6
+2014,ILX,Acura,365,11211,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2014,Insight,Honda,209,11218,Sedan/Wagon,Hybrid Electric,45,ECVT,1.3L I4
+2014,Jetta Hybrid,Volkswagen,347,11245,Sedan/Wagon,Hybrid Electric,45,Auto,1.4L I4
+2014,LS 600h L,Lexus,243,11230,Sedan/Wagon,Hybrid Electric,45,Auto,5.0L V8
+2014,Leaf,Nissan,217,11268,Sedan/Wagon,Electric,41,Auto,80 kW electric motor
+2014,MKZ,Lincoln,227,11233,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2014,Model S,Tesla,237,11271,Sedan/Wagon,Electric,41,Auto,300 kW electric motor
+2014,Optima,Kia,361,11227,Sedan/Wagon,Hybrid Electric,45,Auto,2.4L I4
+2014,P1,McLaren,389,11280,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.8L V8, 132 kW electric motor"
+2014,Panamera S E-Hybrid,Porsche,391,11281,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6, 70 kW electric motor"
+2014,"Pathfinder Hybrid, 2WD/AWD",Nissan,217,11235,SUV,Hybrid Electric,45,Auto,2.5L I4
+2014,Prius,Toyota,221,11240,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2014,Prius Plug-in,Toyota,221,11282,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"1.8L I4, 38 kW electric motor"
+2014,Prius c,Toyota,221,11239,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2014,Prius v,Toyota,221,11238,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2014,"Q5 Hybrid, AWD",Audi,377,11212,SUV,Hybrid Electric,45,Auto,2.0L I4
+2014,"Q50 Hybrid, FWD/AWD",Infiniti,359,11225,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2014,"Q50S Hybrid, FWD/AWD",Infiniti,359,11226,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2014,Q70 Hybrid,Infiniti,359,11224,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2014,QX60 Hybrid,Infiniti,359,11223,SUV,Hybrid Electric,45,Auto,2.5L I4
+2014,RAV 4 EV,Toyota,221,11272,SUV,Electric,41,Auto,115 kW electric motor
+2014,RLX Sport Hybrid SH-AWD,Acura,365,11210,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2014,"RX 450h, FWD/AWD",Lexus,243,11229,SUV,Hybrid Electric,45,Auto,3.5L V6
+2014,Sonata,Hyundai,351,11222,Sedan/Wagon,Hybrid Electric,45,Auto,2.4L I4
+2014,Soul,Kia,361,11265,Sedan/Wagon,Electric,41,Auto,50 kW electric motor
+2014,Spark,Chevrolet,215,11261,Sedan/Wagon,Electric,41,Auto,104 kW electric motor
+2014,Touareg Hybrid,Volkswagen,347,11244,SUV,Hybrid Electric,45,Auto,3.0L V6
+2014,Volt,Chevrolet,215,11276,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4, 111 kW electric motor"
+2014,XV Crosstrek Hybrid,Subaru,383,11237,SUV,Hybrid Electric,45,ECVT,2.0L H4
+2014,fortwo,smart,381,11270,Sedan/Wagon,Electric,41,Auto,55 kW electric motor
+2014,i-MiEV,Mitsubishi,263,11267,Sedan/Wagon,Electric,41,Auto,49 kW electric motor
+2014,i3,BMW,211,11260,Sedan/Wagon,Electric,41,Auto,125 kW electric motor
+2014,i3 w/Range Extender,BMW,211,11274,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2, 125kW electric motor"
+2014,i8 Plug-in Hybrid,BMW,211,11273,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3, 96kW electric motor"
+2014,iQ EV,Scion,353,11269,Sedan/Wagon,Electric,41,Auto,47 kW electric motor
+2015,300h,Lexus,243,11371,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2015,500e,Fiat,379,11346,Sedan/Wagon,Electric,41,Auto,"83kW electric motor, 24 kWh battery"
+2015,918 Spyder,Porsche,391,11357,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.6L V8, 95 kW electric motor front, 115 kW electric motor rear"
+2015,A3 e-tron,Audi,377,11329,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4, 75 kW electric drive"
+2015,Accord Hybrid,Honda,209,11365,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2015,Accord Plug-in Hybrid,Honda,209,11336,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,2.0L I4
+2015,ActiveHybrid 3,BMW,211,11359,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2015,ActiveHybrid 5,BMW,211,11360,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2015,ActiveHybrid 7,BMW,211,11361,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2015,Avalon,Toyota,221,11384,Sedan/Wagon,Hybrid Electric,45,ECVT,2.5L I4
+2015,B-Class Electric,Mercedes-Benz,239,11350,Sedan/Wagon,Electric,41,Auto,"132 kW electric motor, 28 kWh battery"
+2015,C-MAX Energi,Ford,219,11334,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4, 68 kW electric motor"
+2015,C-MAX Hybrid,Ford,219,11362,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2015,CR-Z,Honda,209,11367,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2015,CT 200h,Lexus,243,11370,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2015,Camry,Toyota,221,11385,Sedan/Wagon,Hybrid Electric,45,ECVT,2.5L I4
+2015,Cayenne S E-Hybrid,Porsche,391,11342,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6, 70 kW electric motor"
+2015,Civic Hybrid,Honda,209,11366,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2015,E400 Hybrid,Mercedes-Benz,239,11377,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2015,ELR,Cadillac,231,11332,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4, 111 kW electric motor"
+2015,Focus,Ford,219,11347,Sedan/Wagon,Electric,41,Auto,"107 kW electric motor, 23 kWh battery"
+2015,Fusion Energi,Ford,219,11335,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4, 68 kW electric motor"
+2015,Fusion Hybrid,Ford,219,11363,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2015,GS 450h,Lexus,243,11373,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2015,GS 450h F Sport,Lexus,243,11374,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2015,Highlander,Toyota,221,11386,SUV,Hybrid Electric,45,ECVT,3.5L V6
+2015,Jetta Hybrid,Volkswagen,347,11390,Sedan/Wagon,Hybrid Electric,45,Auto,1.4L I4
+2015,LS 600h L,Lexus,243,11372,Sedan/Wagon,Hybrid Electric,45,Auto,5.0L V8
+2015,Leaf,Nissan,217,11352,Sedan/Wagon,Electric,41,Auto,"80 kW electric motor, 24 kWh battery"
+2015,MKZ Hybrid,Lincoln,227,11364,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2015,Model S,Tesla,237,11354,Sedan/Wagon,Electric,41,Auto,"300 kW electric motor, 60 kWh battery"
+2015,NX 300h,Lexus,243,11376,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2015,Optima,Kia,361,11369,Sedan/Wagon,Hybrid Electric,45,Auto,2.4L I4
+2015,Optima,Kia,361,11579,Sedan/Wagon,Hybrid Electric,45,Auto,2.4L I4
+2015,P1,McLaren,389,11337,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.8L V8, 132 kW electric motor"
+2015,Panamera S E-Hybrid,Porsche,391,11341,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6, 70 kW electric motor"
+2015,Pathfinder Hybrid 2WD/AWD,Nissan,217,11378,SUV,Hybrid Electric,45,Auto,2.5L I4
+2015,Prius ,Toyota,221,11388,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2015,Prius Plug-in,Toyota,221,11343,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"1.8L I4, 38 kW electric motor"
+2015,Prius c,Toyota,221,11387,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2015,Prius v,Toyota,221,11389,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2015,Q5 Hybrid AWD,Audi,377,11358,SUV,Hybrid Electric,45,Auto,2.4L I4
+2015,Q50 Hybrid FWD/AWD,Infiniti,359,11380,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2015,Q50 Hybrid S FWD/AWD,Infiniti,359,11381,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2015,Q70 Hybrid,Infiniti,359,11382,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2015,QX60 Hybrid,Infiniti,359,11383,SUV,Hybrid Electric,45,Auto,2.5L I4
+2015,RX 450h,Lexus,243,11375,SUV,Hybrid Electric,45,Auto,3.5L V6
+2015,S550 Plug-in Hybrid,Mercedes-Benz,239,11340,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,3.0L V6
+2015,Sonota,Hyundai,351,11368,Sedan/Wagon,Hybrid Electric,45,Auto,2.4L I4
+2015,Soul,Kia,361,11349,Sedan/Wagon,Electric,41,Auto,"50 kW electric motor, 16.4 kWh battery"
+2015,Spark,Chevrolet,215,11345,Sedan/Wagon,Electric,41,Auto,"104 kW electric motor, 20 kWh battery"
+2015,Touareg Hybrid,Volkswagen,347,11391,SUV,Hybrid Electric,45,Auto,3.0L V6
+2015,Volt,Chevrolet,215,11333,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4, 111 kW electric motor"
+2015,XV Crosstrek,Subaru,383,11379,SUV,Hybrid Electric,45,ECVT,2.5L H4
+2015,e-Golf,Volkswagen,347,11356,Sedan/Wagon,Electric,41,Auto,"85 kW electric motor, 24.2 kWh battery"
+2015,fortwo,smart,381,11353,Sedan/Wagon,Electric,41,Auto,"55 kW electric motor, 17.6 kWh battery"
+2015,i-MiEV,Mitsubishi,263,11351,Sedan/Wagon,Electric,41,Auto,"49 kW electric motor, 16 kWh battery"
+2015,i3,BMW,211,11344,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor, 21 kWh battery"
+2015,i3 w/Range Extender,BMW,211,11331,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2, 125kW electric motor"
+2015,i8,BMW,211,11330,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3, 96 kW electric drive"
+2016,500e,Fiat,379,11600,Sedan/Wagon,Electric,41,Auto,83kW electric motor 24 kWh battery
+2016,A3 Sportback e-tron,Audi,377,11612,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4
+75 kW electric drive"
+2016,ActiveHybrid 5,BMW,211,11569,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L I6
+2016,Avalon,Toyota,221,11590,Sedan/Wagon,Hybrid Electric,45,ECVT,2.5L I4
+2016,B250e,Mercedes-Benz,239,11603,Sedan/Wagon,Electric,41,Auto,132 kW electric motor 28 kWh battery
+2016,C-MAX Energi,Ford,219,11618,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4
+68 kW electric drive"
+2016,C-MAX Hybrid,Ford,219,11571,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2016,C350e Plug-in Hybrid,Mercedes-Benz,239,11622,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4
+60 kW electric motor"
+2016,CRZ,Honda,209,11573,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2016,CT 200h,Lexus,243,11580,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2016,Camry,Toyota,221,11591,Sedan/Wagon,Hybrid Electric,45,ECVT,2.5L I4
+2016,Cayenne S E-Hybrid,Porsche,391,11624,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+70 kW electric motor"
+2016,ELR,Cadillac,231,11616,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4
+111 kW electric drive"
+2016,ES 300h,Lexus,243,11581,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2016,Focus,Ford,219,11601,Sedan/Wagon,Electric,41,Auto,107 kW electric motor 23 kWh battery
+2016,Fusion Energi,Ford,219,11619,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"2.0L I4
+68 kW electric drive"
+2016,Fusion Hybrid,Ford,219,11572,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2016,GS 450h,Lexus,243,11582,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2016,GS 450h F Sport,Lexus,243,11583,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2016,Highlander,Toyota,221,11592,SUV,Hybrid Electric,45,ECVT,3.5L V6
+2016,Jetta Hybrid,Volkswagen,347,11597,Sedan/Wagon,Hybrid Electric,45,Auto,1.4L I4
+2016,LS 600h L,Lexus,243,11584,Sedan/Wagon,Hybrid Electric,45,Auto,5.0L V8
+2016,Leaf,Nissan,217,11605,Sedan/Wagon,Electric,41,Auto,80 kW electric motor 24 kWh battery
+2016,MKZ Hybrid,Lincoln,227,11587,Sedan/Wagon,Hybrid Electric,45,ECVT,2.0L I4
+2016,Malibu,Chevrolet,215,11570,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2016,Model S,Tesla,237,11607,Sedan/Wagon,Electric,41,Auto,285 kW electric motor 70 kWh battery
+2016,Model S AWD,Tesla,237,11608,Sedan/Wagon,Electric,41,Auto,350/285 kW electric motor 90 kWh battery
+2016,Model X AWD 90D,Tesla,237,11609,SUV,Electric,41,Auto,193/193 kW electric motor 90 kWh battery
+2016,Model X AWD P90D,Tesla,237,11610,SUV,Electric,41,Auto,193/375 kW electric motor 90 kWh battery
+2016,NX 300h FWD/AWD,Lexus,243,11585,SUV,Hybrid Electric,45,Auto,2.5L I4
+2016,P1,McLaren,389,11621,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.8L V8
+132 kW electric motor"
+2016,Panamera S E-Hybrid,Porsche,391,11625,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+70 kW electric motor"
+2016,Pathfinder Hybrid 2WD/AWD,Nissan,217,11588,SUV,Hybrid Electric,45,Auto,2.5L I4
+2016,Prius,Toyota,221,11593,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2016,Prius Plug-in,Toyota,221,11626,Sedan/Wagon,Plug-in Hybrid Electric,57,ECVT,"1.8L I4
+38 kW electric drive"
+2016,Prius c,Toyota,221,11594,Sedan/Wagon,Hybrid Electric,45,ECVT,1.5L I4
+2016,Prius v,Toyota,221,11595,Sedan/Wagon,Hybrid Electric,45,ECVT,1.8L I4
+2016,Q5 Hybrid AWD,Audi,377,11568,SUV,Hybrid Electric,45,Auto,2.0 I4
+2016,Q50 Hybrid FWD/AWD,Infiniti,359,11575,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2016,Q50S Hybrid FWD/AWD,Infiniti,359,11576,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2016,Q70 Hybrid,Infiniti,359,11577,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2016,QX60 Hybrid,Infiniti,359,11578,SUV,Hybrid Electric,45,Auto,2.5L I4
+2016,RAV 4,Toyota,221,11596,SUV,Hybrid Electric,45,ECVT,2.5L I4
+2016,RLX Hybrid,Acura,365,11567,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2016,RX 450h FWD/AWD,Lexus,243,11586,SUV,Hybrid Electric,45,Auto,3.5L V6
+2016,S550e Plug-in Hybrid,Mercedes-Benz,239,11623,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+85 kW electric motor"
+2016,Sonata,Hyundai,351,11574,Sedan/Wagon,Hybrid Electric,45,Auto,2.4L I4
+2016,Sonata Plug-in Hybrid,Hyundai,351,11620,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.4L I4
+50 kW electric motor"
+2016,Soul,Kia,361,11602,Sedan/Wagon,Hybrid Electric,45,Auto,50 kW electric motor 16.4 kWh battery
+2016,Spark,Chevrolet,215,11599,Sedan/Wagon,Electric,41,Auto,104 kW electric motor 20 kWh battery
+2016,Volt,Chevrolet,215,11617,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4
+111 kW electric drive"
+2016,X5 xDrive40e Plug-in Hybrid,BMW,211,11615,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4
+83 kW electric motor"
+2016,XC90 T8 Plug-in Hybrid,Volvo,395,11627,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4
+65 kW electric motor"
+2016,XV Crosstrek Hybrid,Subaru,383,11589,SUV,Hybrid Electric,45,ECVT,2.0L H4
+2016,e-Golf,Volkswagen,347,11611,Sedan/Wagon,Electric,41,Auto,85 kW electric motor 24.2 kWh battery
+2016,fortwo,smart,381,11606,Sedan/Wagon,Electric,41,Auto,55 kW electric motor 17.6 kWh battery
+2016,i-MiEV,Mitsubishi,263,11604,Sedan/Wagon,Electric,41,Auto,49 kW electric motor 16 kWh battery
+2016,i3,BMW,211,11598,Sedan/Wagon,Electric,41,Auto,125 kW electric motor 21 kWh battery
+2016,i3 REX,BMW,211,11613,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,0.6L I2 125kW electric motor
+2016,i8 Plug-in Hybrid,BMW,211,11614,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3
+96kW electric motor"
+2017,330e,BMW,211,11716,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,2.0L I4 83 kW electric motor
+2017,500e,Fiat,379,11639,Sedan/Wagon,Electric,41,Auto,"82 kW electric motor
+24 kWh battery"
+2017,740e xDrive,BMW,211,11717,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,2.0L I4 83 kW electric motor
+2017,918 Spyder,Porsche,391,11769,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,4.6L V8
+2017,A3 e-tron,Audi,377,11715,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,1.4L I4 80 kW electric motor
+2017,Accord Hybrid,Honda,209,11701,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,Avalon Hybrid,Toyota,221,11805,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2017,B250e,Mercedes-Benz,239,11641,Sedan/Wagon,Electric,41,Auto,"132 kW electric motor
+28 kWh battery"
+2017,Bolt,Chevrolet,215,11638,Sedan/Wagon,Electric,41,Auto,"150 kW electric motor
+60 kWh battery"
+2017,C-MAX Hybrid,Ford,219,11786,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,C-Max Energi,Ford,219,11787,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4
+7.6 kW electric motor"
+2017,C350e,Mercedes-Benz,239,11799,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+60 kW electric motor"
+2017,CT 200h,Lexus,243,11796,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2017,CT6 PHEV,Cadillac,231,11784,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,2.0L I4
+2017,Camry Hyrid LE,Toyota,221,11710,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2017,Camry Hyrid XLE/SE,Toyota,221,11711,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2017,Cayenne S e-Hybrid,Porsche,391,11801,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+70 kW electric motor"
+2017,Cayenne S e-Hybrid,Porsche,391,11724,SUV,Plug-in Hybrid Electric,57,Auto,3.0L V6 70 kW electric motor
+2017,Clarity,Honda,209,11843,Sedan/Wagon,Electric,41,Auto,"120 kW electric motor
+82 Ah battery"
+2017,ES 300h,Lexus,243,11707,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2017,Focus Electric,Ford,219,11765,Sedan/Wagon,Electric,41,Auto,"107 kW electric motor
+34 kWh battery"
+2017,Fusion Energi Plug in Hybrid,Ford,219,11722,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,2.0L I4 68 kW electric motor
+2017,Fusion Hybrid FWD,Ford,219,11698,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,GLE550e,Mercedes-Benz,239,11798,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+85 kW electric motor"
+2017,GS 450h,Lexus,243,11705,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2017,Highlander Hybrid 4WD,Toyota,221,11807,SUV,Hybrid Electric,45,Auto,3.5L V6
+2017,Highlander Hybrid 4WD LE Plus,Toyota,221,11808,SUV,Hybrid Electric,45,Auto,3.5L V6
+2017,I3 REX,BMW,211,11718,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,0.6L I2 125 kW electric motor
+2017,I8,BMW,211,11719,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,1.5L I3 96 kW electric motor
+2017,Ioniq,Hyundai,351,11766,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2017,Ioniq,Hyundai,351,11640,Sedan/Wagon,Electric,41,Auto,"88 kW electric motor;
+28 kWh battery"
+2017,Ioniq,Hyundai,351,11788,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4
+45 kW electric motor"
+2017,Ioniq Blue,Hyundai,351,11767,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2017,LaFerrari Aperta,Ferrari,409,11785,Sedan/Wagon,Hybrid Electric,45,Auto,6.3L V12
+2017,Leaf,Nissan,217,11771,Sedan/Wagon,Electric,41,Auto,"80 kW electric motor
+30 kWh battery"
+2017,MDX Hybrid,Acura,365,11783,SUV,Hybrid Electric,45,Auto,3.0L V6
+2017,MKZ Hybrid FWD,Lincoln,227,11708,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,Malibu Hybrid,Chevrolet,215,11694,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2017,Model 3 Long Range,Tesla,237,11852,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor
+230 Ah battery"
+2017,Model S AWD - 100D,Tesla,237,11851,Sedan/Wagon,Electric,41,Auto,"193 kW and 375 kW electric motors
+245 Ah battery"
+2017,Model S AWD - 60D,Tesla,237,11777,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2)
+245 Ah battery"
+2017,Model S AWD - 75D,Tesla,237,11778,Sedan/Wagon,Electric,41,Auto,"193 kW electric motors (X2)
+245 Ah battery"
+2017,Model S AWD - P100D,Tesla,237,11780,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2)
+245 Ah battery"
+2017,Model S AWD - P90D,Tesla,237,11779,Sedan/Wagon,Electric,41,Auto,"193 kW and 375 kW electric motors
+245 Ah battery"
+2017,Model S RWD 60 kWh,Tesla,237,11781,Sedan/Wagon,Electric,41,Auto,"285 kW electric motor
+245 Ah battery"
+2017,Model S RWD 75 kWh,Tesla,237,11782,Sedan/Wagon,Electric,41,Auto,"285 kW electric motor
+245 Ah battery"
+2017,Model S RWD 90D,Tesla,237,11850,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2)
+245 Ah battery"
+2017,Model X AWD - 100D,Tesla,237,11960,SUV,Electric,41,Auto,"193 kW and 193 kW electric motors;
+250 Ah battery"
+2017,Model X AWD - 60D,Tesla,237,11812,SUV,Electric,41,Auto,"193 kW electric motor (X2)
+250 Ah battery"
+2017,Model X AWD - 75D,Tesla,237,11773,SUV,Electric,41,Auto,"193 kW electric motor (X2)
+250 Ah battery"
+2017,Model X AWD - 90D,Tesla,237,11774,SUV,Electric,41,Auto,"193 kW electric motors (X2)
+250 Ah battery"
+2017,Model X AWD - P100D,Tesla,237,11775,SUV,Electric,41,Auto,"193 kW and 375 kW electric motors
+250 Ah battery"
+2017,Model X AWD - P90D,Tesla,237,11776,SUV,Electric,41,Auto,"193 kW and 375 kW electric motor (X2)
+250 Ah battery"
+2017,NSX Hybrid,Acura,365,11692,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2017,NX 300h,Lexus,243,11795,SUV,Hybrid Electric,45,Auto,2.5L I4
+2017,Niro,Kia,361,11794,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2017,Niro FE,Kia,361,11814,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2017,Niro Touring,Kia,361,11815,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2017,Optima Hybrid,Kia,361,11704,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,Optima Plug-In Hybrid,Kia,361,11797,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+50 kW electric motor"
+2017,Pacifica PHEV,Chrysler,223,11816,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,3.6L V6 / 89 kW electric motor
+2017,Panamera 4 e-Hybrid,Porsche,391,11770,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+70 kW electric motor"
+2017,Prius,Toyota,221,11712,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2017,Prius Eco,Toyota,221,11713,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2017,Prius Prime,Toyota,221,11810,Sedan/Wagon,Plug-in Hybrid Electric,57,,"1.8L I4
+53 kW electric motor"
+2017,Prius c,Toyota,221,11809,Sedan/Wagon,Hybrid Electric,45,,
+2017,Prius v,Toyota,221,11709,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2017,Q50 Hybrid,Infiniti,359,11789,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2017,Q50 Hybrid AWD,Infiniti,359,11790,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2017,Q60 Hybrid AWD,Infiniti,359,11792,SUV,Hybrid Electric,45,Auto,3.5L V6
+2017,Q60 Hybrid FWD,Infiniti,359,11793,SUV,Hybrid Electric,45,Auto,3.5L V6
+2017,Q70 Hybrid,Infiniti,359,11791,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2017,RAV4 Hybrid AWD,Toyota,221,11714,SUV,Hybrid Electric,45,Auto,2.5L I4
+2017,RLX Hybrid,Acura,365,11693,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2017,RX 450h,Lexus,243,11706,SUV,Hybrid Electric,45,Auto,3.5L V6
+2017,Rogue AWD Hybrid,Nissan,217,11802,SUV,Hybrid Electric,45,Auto,2.5L I4
+2017,Rogue FWD Hybrid,Nissan,217,11803,SUV,Hybrid Electric,45,Auto,2.5L I4
+2017,Rogue SV FWD Hybrid,Nissan,217,11804,SUV,Hybrid Electric,45,Auto,2.5L I4
+2017,S550e,Mercedes-Benz,239,11800,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6
+85 kW electric motor"
+2017,Sierra 15 Hybrid 2WD,GMC,213,11699,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2017,Sierra 15 Hybrid 4WD,GMC,213,11700,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2017,Silverado 15 Hybrid 2WD,Chevrolet,215,11695,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2017,Silverado 15 Hybrid 4WD,Chevrolet,215,11696,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2017,Sonata Hybrid,Hyundai,351,11702,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,Sonata Hybrid SE,Hyundai,351,11703,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2017,Sonata Plug-in Hybrid,Hyundai,351,11723,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,2.0L I4 50 kW electric motor
+2017,Soul,Kia,361,11768,Sedan/Wagon,Electric,41,Auto,"81 kW electric motor
+27 kWh battery"
+2017,Volt,Chevrolet,215,11721,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,1.5L I4 48 kW & 87 kW electric motor
+2017,X5 xDrive40e,BMW,211,11720,SUV,Plug-in Hybrid Electric,57,Auto,2.0L I4 83 kW electric motor
+2017,XC90 T8 Plug-in Hybrid,Volvo,395,11725,SUV,Plug-in Hybrid Electric,57,Auto,2.0L I4 34 & 65 kW electric motor
+2017,XC90 T8 Plug-in Hybrid,Volvo,395,11811,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4
+34 & 65 kW electric motor"
+2017,e-Golf,Volkswagen,347,11644,Sedan/Wagon,Electric,41,Auto,"100 kW electric motor;
+36 kWh battery"
+2017,e6,BYD Motors,410,11813,Sedan/Wagon,Electric,41,Auto,
+2017,fortwo electric drive convertable,smart,381,11848,Sedan/Wagon,Electric,41,Auto,"60 kW electric motor
+51 Ah battery"
+2017,fortwo electric drive coupe,smart,381,11846,Sedan/Wagon,Electric,41,Auto,"60 kW electric motor
+51 Ah battery"
+2017,i-MiEV,Mitsubishi,263,11642,Sedan/Wagon,Electric,41,Auto,49 kW electric motor 16 kW battery
+2017,i3 BEV,BMW,211,11636,Sedan/Wagon,Electric,41,Auto,125 kW electric motor - 60 Amp-hour battery
+2017,i3 BEV,BMW,211,11637,Sedan/Wagon,Electric,41,Auto,125 kW electric motor - 94 Amp-hour battery
+2018,330e,BMW,211,11937,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2018,500e,Fiat,379,11990,Sedan/Wagon,Electric,41,Auto,"82 kW electric motor;
+63 Ah battery"
+2018,530e,BMW,211,11938,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2018,530e xDrive,BMW,211,11939,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2018,740e xDrive,BMW,211,11940,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2018,A3 e-tron,Audi,377,11936,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.4L I4;
+80 kW electric motor"
+2018,Accord Hybrid,Honda,209,11994,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2018,Avalon Hybrid,Toyota,221,11929,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2018,Bolt EV,Chevrolet,215,11841,Sedan/Wagon,Electric,41,,"150 kW electric motor;
+171 Ah battery"
+2018,C-MAX Hybrid FWD,Ford,219,11908,Sedan/Wagon,Hybrid Electric,45,,2.0L I4
+2018,C15 Silverado 2WD,Chevrolet,215,11906,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2018,C350e,Mercedes-Benz,239,11973,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+60 kW electric motor"
+2018,CT6 Plug-In,Cadillac,231,11942,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+59 kW & 61 kW electric motor"
+2018,Camry Hybrid LE,Toyota,221,11930,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2018,Camry Hybrid XLE/SE,Toyota,221,11931,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2018,Cayenne S e-Hybrid,Porsche,391,11997,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+70 kW electric motor"
+2018,Clarity,Honda,209,11991,Sedan/Wagon,Electric,41,Auto,"120 kW electric motor; 
+82 Ah battery"
+2018,Clarity PHEV,Honda,209,11946,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I4;
+135 kW electric motor"
+2018,Cooper SE Countryman ALL4,Mini,425,11951,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+65 kW electric motor"
+2018,ES 300h,Lexus,243,11923,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2018,F-150,Ford,219,11996,Pickup,Plug-in Hybrid Electric,57,,"2.7L V6, 3.3L V6;
+XL Hybrids drive system"
+2018,Focus Electric FWD,Ford,219,11842,Sedan/Wagon,Electric,41,Auto,"107 kW electric motor;
+105 Ah battery"
+2018,Fusion Energi Plug in Hybrid,Ford,219,11945,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+68 kW electric motor"
+2018,Fusion Hybrid FWD,Ford,219,11909,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2018,GLC 350e 4MATIC,Mercedes-Benz,239,11984,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+60 kW electric motor"
+2018,GLE550e,Mercedes-Benz,239,11950,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+85 kW electric motor"
+2018,GS 450h,Lexus,243,11924,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,Highlander Hybrid AWD,Toyota,221,11982,SUV,Hybrid Electric,45,Auto,3.5L V6
+2018,Highlander Hybrid AWD LE Plus,Toyota,221,11983,SUV,Hybrid Electric,45,Auto,3.5L V6
+2018,I3 (94 Ah) ,BMW,211,11975,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor;
+94 Ah battery"
+2018,I3 (94Ah) with Range Extender,BMW,211,11969,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+125 kW electric motor"
+2018,I3s (94 Ah) ,BMW,211,11976,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor;
+94 Ah battery"
+2018,I3s (94Ah) with Range Extender,BMW,211,11970,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+125 kW electric motor"
+2018,Ioniq,Hyundai,351,11913,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2018,Ioniq Blue,Hyundai,351,11914,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2018,Ioniq Electric,Hyundai,351,11844,Sedan/Wagon,Electric,41,Auto,"88 kW electric motor;
+78 Ah battery"
+2018,Ioniq Plug-in Hybrid,Hyundai,351,11947,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+32 kW electric motor"
+2018,K15 Silverado 4WD,Chevrolet,215,11907,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2018,LC 500h,Lexus,243,11922,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,LS 500h,Lexus,243,11989,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,LS 500h AWD,Lexus,243,11981,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,LaCrosse Hybrid,Buick,235,11904,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2018,Leaf,Nissan,217,11974,Sedan/Wagon,Electric,41,Auto,"110 kW electric motor;
+115 Ah battery"
+2018,MDX AWD,Acura,365,11978,SUV,Hybrid Electric,45,Auto,3.0L V6
+2018,MKZ Hybrid FWD,Lincoln,227,11926,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2018,Malibu Hybrid,Chevrolet,215,11905,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2018,Model 3 Long Range,Tesla,237,11966,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2018,Model 3 Long Range AWD,Tesla,237,12057,Sedan/Wagon,Electric,41,Auto,"147 kW and 188 kW electric motors; 
+230 Ah battery"
+2018,Model 3 Long Range AWD Performance,Tesla,237,12058,Sedan/Wagon,Electric,41,Auto,"147 kW and 211 kW electric motors;
+230 Ah battery"
+2018,Model S 75 kWh,Tesla,237,11965,Sedan/Wagon,Electric,41,Auto,"270 kW electric motor;
+245 Ah battery"
+2018,Model S AWD - 100D,Tesla,237,11964,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2);
+245 Ah battery"
+2018,Model S AWD - 75D,Tesla,237,11962,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2);
+245 Ah battery"
+2018,Model S AWD - P100D,Tesla,237,11963,Sedan/Wagon,Electric,41,Auto,"193 kW and 375 kW electric motors;
+245 Ah battery"
+2018,Model X AWD - 100D,Tesla,237,11959,SUV,Electric,41,Auto,"193 kW electric motors (X2);
+250 Ah battery"
+2018,Model X AWD - 75D,Tesla,237,11958,SUV,Electric,41,Auto,"193 kW electric motor (X2);
+250 Ah battery"
+2018,Model X AWD - P100D,Tesla,237,11961,SUV,Electric,41,Auto,"193 kW and 375 kW electric motors;
+250 Ah battery"
+2018,NSX Hybrid,Acura,365,11967,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,NX 300h AWD,Lexus,243,11925,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2018,Niro,Kia,361,11918,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2018,Niro FE,Kia,361,11919,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2018,Niro Plug-in Hybrid,Kia,361,11971,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+32 kW electric motor"
+2018,Niro Touring,Kia,361,11920,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2018,Optima Hybrid,Kia,361,11921,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2018,Optima Plug-In Hybrid,Kia,361,11948,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+50 kW electric motor"
+2018,Outlander PHEV,Mitsubishi,263,11972,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+60 kW electric motor"
+2018,Pacifica PHEV,Chrysler,223,11944,Van,Plug-in Hybrid Electric,57,Auto,"3.6L V6;
+89 kW electric motor"
+2018,Panamera 4 e-Hybrid,Porsche,391,12027,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2018,Panamera 4 e-Hybrid Executive,Porsche,391,12028,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2018,Panamera 4 e-Hybrid ST,Porsche,391,11998,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2018,Panamera Turbo S e-Hybrid,Porsche,391,11999,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V6;
+70 kW electric motor"
+2018,Panamera Turbo S e-Hybrid Executive,Porsche,391,12000,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V6;
+70 kW electric motor"
+2018,Panamera Turbo S e-Hybrid ST,Porsche,391,12001,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V6;
+70 kW electric motor"
+2018,Prius,Toyota,221,11932,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2018,Prius Eco,Toyota,221,11933,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2018,Prius Prime,Toyota,221,11985,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.8L I4;
+53 kW electric motor"
+2018,Prius c,Toyota,221,11934,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2018,Q50 Hybrid,Infiniti,359,11915,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,Q50 Hybrid AWD,Infiniti,359,11916,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,Q70 Hybrid,Infiniti,359,11917,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,RAV4 Hybrid AWD,Toyota,221,11935,SUV,Hybrid Electric,45,Auto,2.5L I4
+2018,RLX Hybrid,Acura,365,11903,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2018,RX 450h  L AWD,Lexus,243,11995,SUV,Hybrid Electric,45,Auto,3.5L V6
+2018,RX 450h AWD,Lexus,243,11968,SUV,Hybrid Electric,45,Auto,3.5L V6
+2018,Revero,Karma,424,11949,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+150 kW & 150 kW electric motor"
+2018,Rogue AWD Hybrid,Nissan,217,11927,SUV,Hybrid Electric,45,Auto,2.0L I4
+2018,Rogue FWD Hybrid,Nissan,217,11928,SUV,Hybrid Electric,45,Auto,2.0L I4
+2018,S90 AWD,Volvo,395,11952,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motor"
+2018,Sierra 15 Hybrid 2WD,GMC,213,11910,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2018,Sierra 15 Hybrid 4WD,GMC,213,11911,Pickup,Hybrid Electric,45,Auto,5.3L V8
+2018,Sonata Hybrid,Hyundai,351,11986,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2018,Sonata Hybrid SE,Hyundai,351,11987,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2018,Sonata Plug-in Hybrid,Hyundai,351,12026,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+50 kW electric motor"
+2018,Soul,Kia,361,11845,Sedan/Wagon,Electric,41,Auto,"81 kW electric motor;
+80 Ah battery"
+2018,Volt,Chevrolet,215,11943,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I4;
+48 kW & 87 kW electric motor"
+2018,X5 xDrive40e,BMW,211,11941,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2018,XC60 AWD,Volvo,395,11953,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motor"
+2018,XC90 AWD,Volvo,395,11954,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motor"
+2018,e6,BYD Motors,410,12218,Sedan/Wagon,Electric,41,Auto,"75 kW electric motor; 
+270 Ah battery"
+2018,fortwo electric drive convertable,smart,381,11849,Sedan/Wagon,Electric,41,Auto,"60 kW electric motor;
+51 Ah battery"
+2018,fortwo electric drive coupe,smart,381,11847,Sedan/Wagon,Electric,41,Auto,"60 kW electric motor;
+51 Ah battery"
+2019,1500 2WD,Ram,349,12069,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2019,1500 2WD,Ram,349,12155,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2019,1500 4WD,Ram,349,12070,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2019,1500 4WD,Ram,349,12156,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2019,1500 HFE 2WD,Ram,349,12232,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2019,500e,Fiat,379,12219,Sedan/Wagon,Electric,41,Auto,"82 kW electric motor;
+63 Ah battery"
+2019,530e,BMW,211,12162,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2019,530e xDrive,BMW,211,12163,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2019,740e xDrive,BMW,211,12164,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2019,A6 quattro,Audi,377,12129,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,A6 quattro,Audi,377,12259,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,A7 quattro,Audi,377,12130,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,A8L,Audi,377,12131,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,A8L,Audi,377,12349,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2019,AMG CLS53 4MATIC+,Mercedes-Benz,239,12149,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,AMG E53 4MATIC+,Mercedes-Benz,239,12150,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,AMG E53 4MATIC+ (Convertible),Mercedes-Benz,239,12152,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,AMG E53 4MATIC+ (Coupe),Mercedes-Benz,239,12151,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,AMG GT 53 4MATIC+,Mercedes-Benz,239,12230,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,Accord Hybrid,Honda,209,12136,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Avalon Hybrid,Toyota,221,12050,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2019,Avalon Hybrid XLE,Toyota,221,12051,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2019,Bolt EV,Chevrolet,215,12209,Sedan/Wagon,Electric,41,,"150 kW electric motor;
+171 Ah battery"
+2019,CLS 450,Mercedes-Benz,239,12153,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,CLS 450 4MATIC,Mercedes-Benz,239,12154,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,Camry Hybrid LE,Toyota,221,12157,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2019,Camry Hybrid XLE/SE,Toyota,221,12158,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2019,Cayenne e-Hybrid,Porsche,391,12402,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+99 kW electric motor"
+2019,Clarity,Honda,209,12170,Sedan/Wagon,Electric,41,Auto,"120 kW electric motor; 
+82 Ah battery"
+2019,Clarity PHEV,Honda,209,12194,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I4;
+135 kW electric motor"
+2019,Cooper SE Countryman ALL4,Mini,425,12054,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+65 kW electric motor"
+2019,Crosstrek Hybrid AWD,Subaru,383,12212,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+88 kW electric motor"
+2019,EQ fortwo convertible,smart,381,12172,Sedan/Wagon,Electric,41,Auto,"60 kW electric motor;
+51 Ah battery"
+2019,EQ fortwo coupe,smart,381,12171,Sedan/Wagon,Electric,41,Auto,"60 kW electric motor;
+51 Ah battery"
+2019,ES 300h,Lexus,243,12146,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2019,F-150,Ford,219,12234,Pickup,Plug-in Hybrid Electric,57,Auto,"2.7L V6, 3.3L V6;
+XL XLP Plug-in Hybrid Electric System"
+2019,Fusion Energi Plug in Hybrid FWD,Ford,219,12088,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+68 kW electric motor"
+2019,Fusion Hybrid FWD,Ford,219,12135,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Fusion Hybrid TAXI,Ford,219,12134,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Fusion Special Service Vehicle PHEV,Ford,219,12213,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+68 kW electric motor"
+2019,GLC 350e 4MATIC,Mercedes-Benz,239,12167,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+85 kW electric motor"
+2019,Highlander Hybrid AWD,Toyota,221,12159,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,Highlander Hybrid AWD LE Plus,Toyota,221,12160,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,I-PACE,Jaguar,385,12103,SUV,Electric,41,Auto,"147 kW electric motor;
+223 Ah battery"
+2019,Insight,Honda,209,12067,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2019,Insight Touring,Honda,209,12068,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2019,Ioniq,Hyundai,351,12137,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2019,Ioniq Blue,Hyundai,351,12138,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2019,Ioniq Electric,Hyundai,351,12061,Sedan/Wagon,Electric,41,Auto,"88 kW electric motor;
+78 Ah battery"
+2019,Ioniq Plug-in Hybrid,Hyundai,351,12089,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+32 kW electric motor"
+2019,Kona Electric,Hyundai,351,12210,SUV,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2019,LC 500h,Lexus,243,12143,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,LS 500h,Lexus,243,12144,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,LS 500h AWD,Lexus,243,12145,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,LaCrosse Hybrid,Buick,235,12048,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2019,Leaf (40 kWh battery pack),Nissan,217,12075,Sedan/Wagon,Electric,41,Auto,"110 kW electric motor;
+115 Ah battery"
+2019,Leaf (62 kWh battery pack),Nissan,217,12222,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2019,Leaf SV/SL (62 kWh battery pack),Nissan,217,12223,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2019,MDX AWD,Acura,365,12127,SUV,Hybrid Electric,45,Auto,3.0L V6
+2019,MKZ Hybrid FWD,Lincoln,227,12148,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Malibu Hybrid,Chevrolet,215,12133,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2019,Model 3 Long Range,Tesla,237,12181,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2019,Model 3 Long Range AWD,Tesla,237,12182,Sedan/Wagon,Electric,41,Auto,"147 kW and 188 kW electric motors;
+230 Ah battery"
+2019,Model 3 Long Range AWD Performance,Tesla,237,12179,Sedan/Wagon,Electric,41,Auto,"147 kW and 211 kW electric motors;
+230 Ah battery"
+2019,Model 3 Mid Range,Tesla,237,12180,Sedan/Wagon,Electric,41,Auto,"202 kW electric motor;
+230 Ah battery"
+2019,Model 3 Standard Range,Tesla,237,12250,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2019,Model 3 Standard Range Plus,Tesla,237,12251,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2019,Model S 100D,Tesla,237,12177,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2);
+245 Ah battery"
+2019,Model S 75D,Tesla,237,12178,Sedan/Wagon,Electric,41,Auto,"193 kW electric motor (X2);
+245 Ah battery"
+2019,Model S Long Range,Tesla,237,12249,Sedan/Wagon,Electric,41,Auto,"193 kW and 205 kW electric motor;
+245 Ah battery"
+2019,Model S P100D,Tesla,237,12176,Sedan/Wagon,Electric,41,Auto,"193 kW and 375 kW electric motor;
+245 Ah battery"
+2019,"Model S Performance (19"" Wheels)",Tesla,237,12248,Sedan/Wagon,Electric,41,Auto,"193 kW and 205 kW electric motor;
+245 Ah battery"
+2019,Model S Standard Range,Tesla,237,12258,Sedan/Wagon,Electric,41,Auto,"193 kW and 205 kW electric motor;
+245 Ah battery"
+2019,Model X 100D,Tesla,237,12174,SUV,Electric,41,Auto,"193 kW kW electric motor (X2);
+250 Ah battery"
+2019,Model X 75D,Tesla,237,12173,SUV,Electric,41,Auto,"193 kW electric motor (X2);
+250 Ah battery"
+2019,Model X Long Range,Tesla,237,12256,SUV,Electric,41,Auto,"193, 205, and 375 kW electric motors;
+250 Ah battery"
+2019,Model X P100D,Tesla,237,12175,SUV,Electric,41,Auto,"193 kW and 375 kW electric motor;
+250 Ah battery"
+2019,"Model X Performance (22"" Wheels)",Tesla,237,12257,SUV,Electric,41,Auto,"193, 205, and 375 kW electric motors;
+250 Ah battery"
+2019,NSX Hybrid,Acura,365,12128,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,NX 300h AWD,Lexus,243,12056,SUV,Hybrid Electric,45,Auto,2.5L I4
+2019,Niro,Kia,361,12080,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2019,Niro Electric,Kia,361,12104,Sedan/Wagon,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2019,Niro FE,Kia,361,12081,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2019,Niro Plug-in Hybrid,Kia,361,12166,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+32 kW electric motor"
+2019,Niro Touring,Kia,361,12082,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2019,Optima Hybrid,Kia,361,12083,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Optima Plug-In Hybrid,Kia,361,12090,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+50 kW electric motor"
+2019,Outlander PHEV,Mitsubishi,263,12168,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+60 kW electric motor"
+2019,Pacifica Hybrid,Chrysler,223,12087,Van,Plug-in Hybrid Electric,57,Auto,"3.6L V6;
+89 kW electric motor"
+2019,Panamera 4 e-Hybrid,Porsche,391,12236,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2019,Panamera 4 e-Hybrid Executive,Porsche,391,12238,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2019,Panamera 4 e-Hybrid ST,Porsche,391,12237,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2019,Panamera Turbo S e-Hybrid,Porsche,391,12240,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+70 kW electric motor"
+2019,Panamera Turbo S e-Hybrid Executive,Porsche,391,12239,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+70 kW electric motor"
+2019,Panamera Turbo S e-Hybrid ST,Porsche,391,12241,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+70 kW electric motor"
+2019,Prius,Toyota,221,12191,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2019,Prius AWD,Toyota,221,12192,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2019,Prius Eco,Toyota,221,12193,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2019,Prius Prime,Toyota,221,12195,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.8L I4;
+23 & 53 kW electric motor"
+2019,Prius c,Toyota,221,12161,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2019,Q8,Audi,377,12132,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2019,RAV4 Hybrid AWD,Toyota,221,12233,SUV,Hybrid Electric,45,Auto,2.5L I4
+2019,RLX Hybrid,Acura,365,12066,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2019,RX 450h AWD,Lexus,243,12084,SUV,Hybrid Electric,45,Auto,3.5L V6
+2019,RX 450h L AWD,Lexus,243,12147,SUV,Hybrid Electric,45,Auto,3.5L V6
+2019,Range Rover Sport MHEV,Land Rover,387,12403,SUV,Hybrid Electric,45,Auto,3.0L V6
+2019,Revero,Karma,424,12400,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+150 kW electric motors (x2)"
+2019,Rogue AWD Hybrid,Nissan,217,12085,SUV,Hybrid Electric,45,Auto,2.0L I4
+2019,Rogue FWD Hybrid,Nissan,217,12086,SUV,Hybrid Electric,45,Auto,2.0L I4
+2019,S 560e,Mercedes-Benz,239,12401,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L I4;
+90 kW electric motor"
+2019,S60 AWD,Volvo,395,12242,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2019,S90 AWD,Volvo,395,12071,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2019,Sonata Hybrid,Hyundai,351,12139,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Sonata Hybrid SE,Hyundai,351,12140,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Soul,Kia,361,12221,Sedan/Wagon,Electric,41,Auto,"81 kW electric motor;
+80 Ah battery"
+2019,Super Duty F-250 2WD/4WD,Ford,219,12228,Pickup,Hybrid Electric,45,Auto,"6.2L V8; 
+XL XLH hybrid drive system"
+2019,Super Duty F-250 2WD/4WD,Ford,219,12235,Pickup,Plug-in Hybrid Electric,57,Auto,"6.2L V8;
+XL XLP Plug-in Hybrid Electric System"
+2019,Transit Van/Wagon,Ford,219,12220,Van,Electric,41,Auto,"160 kW electric motor;
+86 kWh battery"
+2019,Transit Van/Wagon,Ford,219,12246,Van,Electric,41,Auto,"160 kW electric motor;
+43 kWh battery"
+2019,Transit Van/Wagon,Ford,219,12229,Van,Hybrid Electric,45,Auto,"3.5L V6, 3.7L V6;
+XL XLH hybrid drive system"
+2019,UX 250h,Lexus,243,12189,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,UX 250h AWD,Lexus,243,12190,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2019,Volt,Chevrolet,215,12165,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I4;
+48 kW & 87 kW electric motor"
+2019,Wrangler 4x4,Jeep,275,12141,SUV,Hybrid Electric,45,Auto,2.4L I4
+2019,Wrangler Unlimited 4x4,Jeep,275,12142,SUV,Hybrid Electric,45,Auto,2.4L I4
+2019,XC60 AWD,Volvo,395,12072,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2019,XC90 AWD,Volvo,395,12073,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2019,e-Golf,Volkswagen,347,12105,Sedan/Wagon,Electric,41,Auto,"100 kW electric motor;
+111 Ah battery"
+2019,e-tron,Audi,377,12247,SUV,Electric,41,Auto,"141 kW and 172 kW electric motors;
+240 Ah battery"
+2019,e6,BYD Motors,410,12217,Sedan/Wagon,Electric,41,Auto,"75 kW electric motor; 
+270 Ah battery"
+2019,i3,BMW,211,12100,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor;
+120 Ah battery"
+2019,i3 with Range Extender,BMW,211,12200,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+125 kW electric motor"
+2019,i3s,BMW,211,12101,Sedan/Wagon,Electric,41,Auto,"135 kW electric motor;
+120 Ah battery"
+2019,i3s with Range Extender,BMW,211,12201,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+135 kW electric motor"
+2019,i8 Coupe,BMW,211,12052,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3; 
+96 kW electric motor"
+2019,i8 Roadster,BMW,211,12053,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3; 
+96 kW electric motor"
+2020,1500 2WD,Ram,349,12289,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2020,1500 2WD,Ram,349,12290,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2020,1500 4WD,Ram,349,12292,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2020,1500 4WD,Ram,349,12291,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2020,1500 HFE 2WD,Ram,349,12288,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2020,530e,BMW,211,12333,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2020,530e xDrive,BMW,211,12334,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+83 kW electric motor"
+2020,745e xDrive,BMW,211,12294,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+83 kW electric motor"
+2020,A6 Allroad,Audi,377,12379,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,A6 quattro,Audi,377,12378,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,A6 quattro,Audi,377,12307,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,A7 quattro,Audi,377,12383,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,A8L,Audi,377,12385,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2020,A8L,Audi,377,12419,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+100 kW electric motor"
+2020,A8L,Audi,377,12384,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,AMG CLS53 4MATIC+,Mercedes-Benz,239,12319,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,AMG E53 4MATIC+,Mercedes-Benz,239,12320,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,AMG E53 4MATIC+ (Convertible),Mercedes-Benz,239,12322,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,AMG E53 4MATIC+ (Coupe),Mercedes-Benz,239,12321,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,AMG GT 53 4MATIC+,Mercedes-Benz,239,12318,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,Accord,Honda,209,12354,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Avalon Hybrid,Toyota,221,12326,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Avalon Hybrid XLE,Toyota,221,12327,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Aviator AWD PHEV,Lincoln,227,12423,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+74 kW electric motor"
+2020,Bentayga,Bentley Motors,355,12475,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+100 kW electric motor"
+2020,Bolt EV,Chevrolet,215,12351,Sedan/Wagon,Electric,41,,"150 kW electric motor;
+188 Ah battery"
+2020,CLS 450,Mercedes-Benz,239,12323,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,CLS 450 4MATIC,Mercedes-Benz,239,12324,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,CR-V AWD,Honda,209,12437,SUV,Hybrid Electric,45,Auto,2.0L I4
+2020,Camry Hybrid LE,Toyota,221,12328,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Camry Hybrid XLE/SE,Toyota,221,12329,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Cayenne Turbo S e-Hybrid,Porsche,391,12482,SUV,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+99 kW electric motor"
+2020,Cayenne Turbo S e-Hybrid Coupe,Porsche,391,12483,SUV,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+99 kW electric motor"
+2020,Cayenne e-Hybrid,Porsche,391,12449,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+99 kW electric motor"
+2020,Cayenne e-Hybrid Coupe,Porsche,391,12450,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+99 kW electric motor"
+2020,Clarity PHEV,Honda,209,12430,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I4;
+135 kW electric motor"
+2020,Cooper SE Countryman ALL4,Mini,425,12411,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+65 kW electric motor"
+2020,Cooper SE Hardtop 2 door,Mini,425,12434,Sedan/Wagon,Electric,41,Auto,"135 kW electric motor;
+93 Ah battery"
+2020,Corolla Hybrid,Toyota,221,12293,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2020,Crosstrek Hybrid AWD,Subaru,383,12399,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+88 kW electric motor"
+2020,Defender 110 MHEV,Land Rover,387,12452,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,Defender 90 MHEV,Land Rover,387,12453,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,ES 300h,Lexus,243,12314,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Escape AWD HEV,Ford,219,12389,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Escape FWD HEV,Ford,219,12388,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2020,Escape FWD PHEV,Ford,219,12455,SUV,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+36 kW electric motor"
+2020,Explorer HEV AWD,Ford,219,12309,SUV,Hybrid Electric,45,Auto,3.3L V6
+2020,Explorer HEV RWD,Ford,219,12308,SUV,Hybrid Electric,45,Auto,3.3L V6
+2020,F-150 2WD/4WD,Ford,219,12476,Pickup,Plug-in Hybrid Electric,57,Auto,"2.7L V6, 3.3L V6;
+XL XLP Plug-in Hybrid Electric System"
+2020,Fusion Energi Plug in Hybrid FWD,Ford,219,12337,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+68 kW electric motor"
+2020,Fusion Hybrid FWD,Ford,219,12310,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Fusion Hybrid TAXI,Ford,219,12311,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Fusion Special Service PHEV,Ford,219,12336,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+68 kW electric motor"
+2020,GLC 350e 4MATIC,Mercedes-Benz,239,12478,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+90 kW electric motor"
+2020,GLE 450 4MATIC,Mercedes-Benz,239,12287,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,GLE 580 4MATIC,Mercedes-Benz,239,12406,SUV,Hybrid Electric,45,Auto,4.0L V8
+2020,GLS 450 4MATIC,Mercedes-Benz,239,12325,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,GLS 580 4MATIC,Mercedes-Benz,239,12407,SUV,Hybrid Electric,45,Auto,4.0L V8
+2020,Highlander Hybrid,Toyota,221,12428,SUV,Hybrid Electric,45,Auto,2.5L I4
+2020,Highlander Hybrid AWD,Toyota,221,12427,SUV,Hybrid Electric,45,Auto,3.5L V6
+2020,Highlander Hybrid AWD LTD/PLAT,Toyota,221,12429,SUV,Hybrid Electric,45,Auto,3.5L V6
+2020,I-PACE,Jaguar,385,12267,SUV,Electric,41,Auto,"201 kW electric motor;
+223 Ah battery"
+2020,Insight,Honda,209,12281,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2020,Insight Touring,Honda,209,12282,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2020,Ioniq,Hyundai,351,12390,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2020,Ioniq Blue,Hyundai,351,12391,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2020,Ioniq Electric,Hyundai,351,12362,Sedan/Wagon,Electric,41,Auto,"100 kW electric motor;
+120 Ah battery"
+2020,Ioniq Plug-in Hybrid,Hyundai,351,12397,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+32 kW electric motor"
+2020,Kona Electric,Hyundai,351,12352,SUV,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2020,LC 500h,Lexus,243,12285,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2020,LS 500h,Lexus,243,12355,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2020,LS 500h AWD,Lexus,243,12356,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2020,Leaf (40 kWh battery pack),Nissan,217,12444,Sedan/Wagon,Electric,41,Auto,"110 kW electric motor;
+115 Ah battery"
+2020,Leaf (62 kWh battery pack),Nissan,217,12445,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2020,Leaf SV/SL (62 kWh battery pack),Nissan,217,12446,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2020,MDX AWD,Acura,365,12280,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,MKZ Hybrid FWD,Lincoln,227,12317,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Model 3 Long Range,Tesla,237,12372,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2020,Model 3 Long Range AWD,Tesla,237,12373,Sedan/Wagon,Electric,41,Auto,"147 kW and 188 kW electric motors;
+230 Ah battery"
+2020,"Model 3 Long Range Performance AWD (18"" Wheels)",Tesla,237,12374,Sedan/Wagon,Electric,41,Auto,"147 kW and 188 kW electric motors;
+230 Ah battery"
+2020,Model 3 Mid Range,Tesla,237,12371,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2020,Model 3 Standard Range,Tesla,237,12369,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2020,Model 3 Standard Range Plus,Tesla,237,12370,Sedan/Wagon,Electric,41,Auto,"211 kW electric motor;
+230 Ah battery"
+2020,Model S Long Range,Tesla,237,12368,Sedan/Wagon,Electric,41,Auto,"193 kW and 205 kW electric motor;
+245 Ah battery"
+2020,Model S Long Range Plus,Tesla,237,12465,Sedan/Wagon,Electric,41,Auto,"193 kW and 375 kW electric motor;
+245 Ah battery"
+2020,"Model S Performance (19"" Wheels)",Tesla,237,12366,Sedan/Wagon,Electric,41,Auto,"193 kW and 205 kW electric motor;
+245 Ah battery"
+2020,Model S Standard Range,Tesla,237,12367,Sedan/Wagon,Electric,41,Auto,"193 kW and 205 kW electric motor;
+245 Ah battery"
+2020,Model X Long Range,Tesla,237,12364,SUV,Electric,41,Auto,"193 and 205 kW electric motors;
+250 Ah battery"
+2020,"Model X Performance (20"" Wheels)",Tesla,237,12365,SUV,Electric,41,Auto,"205 and 375 kW electric motors;
+250 Ah battery"
+2020,Model X Standard Range,Tesla,237,12363,SUV,Electric,41,Auto,"193 and 205 kW electric motors;
+250 Ah battery"
+2020,Model Y Long Range AWD,Tesla,237,12498,SUV,Electric,41,Auto,"158 and 203 kW electric motors;
+230 Ah battery"
+2020,Model Y Performance AWD,Tesla,237,12454,SUV,Electric,41,Auto,"147 and 211 kW electric motors;
+230 Ah battery"
+2020,"Model Y Performance AWD (21"" wheels)",Tesla,237,12497,SUV,Electric,41,Auto,"158 and 219 kW electric motors;
+230 Ah battery"
+2020,NSX,Acura,365,12377,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2020,NX 300h AWD,Lexus,243,12286,SUV,Hybrid Electric,45,Auto,2.5L I4
+2020,Niro,Kia,361,12392,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2020,Niro Electric,Kia,361,12440,Sedan/Wagon,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2020,Niro FE,Kia,361,12393,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2020,Niro Plug-in Hybrid,Kia,361,12410,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+32 kW electric motor"
+2020,Niro Touring,Kia,361,12394,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2020,Optima Hybrid,Kia,361,12284,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Optima Plug-In Hybrid,Kia,361,12338,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+50 kW electric motor"
+2020,Outlander PHEV,Mitsubishi,263,12339,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+60 kW electric motor"
+2020,Pacifica Hybrid,Chrysler,223,12335,Van,Plug-in Hybrid Electric,57,Auto,"3.6L V6;
+89 kW electric motor"
+2020,Panamera 4 e-Hybrid,Porsche,391,12412,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2020,Panamera 4 e-Hybrid Executive,Porsche,391,12414,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2020,Panamera 4 e-Hybrid ST,Porsche,391,12413,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2020,Panamera Turbo S e-Hybrid,Porsche,391,12340,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+70 kW electric motor"
+2020,Panamera Turbo S e-Hybrid Executive,Porsche,391,12341,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+70 kW electric motor"
+2020,Panamera Turbo S e-Hybrid ST,Porsche,391,12342,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+70 kW electric motor"
+2020,Polestar I,Polestar Automotive USA,462,12456,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4; 
+52, 85, 86kW 3-phase Sync. electric motor"
+2020,Prius,Toyota,221,12330,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2020,Prius AWD,Toyota,221,12331,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2020,Prius Eco,Toyota,221,12332,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2020,Prius Prime,Toyota,221,12343,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.8L I4;
+23 & 53 kW electric motor"
+2020,Q5,Audi,377,12420,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2020,Q7,Audi,377,12386,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,Q8,Audi,377,12387,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2020,RAV4 Hybrid AWD,Toyota,221,12361,SUV,Hybrid Electric,45,Auto,2.5L I4
+2020,RLX,Acura,365,12306,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2020,RS Q8,Audi,377,12436,SUV,Hybrid Electric,45,Auto,4.0L V8
+2020,RX 450h AWD,Lexus,243,12315,SUV,Hybrid Electric,45,Auto,3.5L V6
+2020,RX 450hL AWD,Lexus,243,12316,SUV,Hybrid Electric,45,Auto,3.5L V6
+2020,Range Rover MHEV,Land Rover,387,12481,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,Range Rover PHEV,Land Rover,387,12421,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2020,Range Rover Sport MHEV,Land Rover,387,12685,SUV,Hybrid Electric,45,Auto,3.0L V6
+2020,Range Rover Sport PHEV,Land Rover,387,12422,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2020,"Revero GT (21"" wheels)",Karma,424,12398,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+175 kW electric motors (x2)"
+2020,S 560e,Mercedes-Benz,239,12443,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+90 kW electric motor"
+2020,S6,Audi,377,12380,Sedan/Wagon,Hybrid Electric,45,Auto,2.9L V6
+2020,S60 AWD,Volvo,395,12344,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2020,S7,Audi,377,12381,Sedan/Wagon,Hybrid Electric,45,Auto,2.9L V6
+2020,S8,Audi,377,12382,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2020,S90 AWD,Volvo,395,12345,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2020,Sonata Hybrid,Hyundai,351,12425,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Sonata Hybrid Blue,Hyundai,351,12426,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,Super Duty F-250 2WD/4WD,Ford,219,12477,Pickup,Plug-in Hybrid Electric,57,Auto,"7.3L V8;
+XL XLP Plug-in Hybrid Electric System"
+2020,Super Duty F-250 2WD/4WD,Ford,219,12472,Pickup,Hybrid Electric,45,Auto,"7.3L V8; 
+XL XLH hybrid drive system"
+2020,Taycan 4S Perf Battery Plus,Porsche,391,12451,Sedan/Wagon,Electric,41,Auto,"120 kW electric motor
+129 Ah battery"
+2020,Taycan Turbo,Porsche,391,12417,Sedan/Wagon,Electric,41,Auto,"170 kW electric motor
+129 Ah battery"
+2020,Taycan Turbo S,Porsche,391,12416,Sedan/Wagon,Electric,41,Auto,"170 kW electric motor
+129 Ah battery"
+2020,Transit Cargo Van,Ford,219,12461,Van,Electric,41,Auto,"160 kW electric motor;
+43 kWh battery"
+2020,Transit Cargo Van,Ford,219,12473,Van,Hybrid Electric,45,Auto,"3.5L V6
+XL XLH hybrid drive system"
+2020,Transit Cargo Van,Ford,219,12462,Van,Electric,41,Auto,"160 kW electric motor;
+86 kWh battery"
+2020,Transit Passenger Van,Ford,219,12464,Passenger Van/Shuttle Bus,Electric,41,Auto,"160 kW electric motor;
+43 kWh battery"
+2020,Transit Passenger Van,Ford,219,12474,Passenger Van/Shuttle Bus,Hybrid Electric,45,Auto,"3.5L V6
+XL XLH hybrid drive system"
+2020,Transit Passenger Van,Ford,219,12463,Passenger Van/Shuttle Bus,Electric,41,Auto,"160 kW electric motor;
+86 kWh battery"
+2020,UX 250h,Lexus,243,12395,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,UX 250h AWD,Lexus,243,12396,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2020,V60 AWD,Volvo,395,12346,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2020,Wrangler 4x4,Jeep,275,12424,SUV,Hybrid Electric,45,Auto,2.0L I4
+2020,Wrangler Unlimited 4x4,Jeep,275,12283,SUV,Hybrid Electric,45,Auto,3.6L V6
+2020,Wrangler Unlimited 4x4,Jeep,275,12312,SUV,Hybrid Electric,45,Auto,2.0L I4
+2020,X3 xDrive30e,BMW,211,12442,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2020,XC60 AWD,Volvo,395,12347,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2020,XC90 AWD,Volvo,395,12348,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2020,e-Golf,Volkswagen,347,12353,Sedan/Wagon,Electric,41,Auto,"100 kW electric motor;
+111 Ah battery"
+2020,e-tron Sportback,Audi,377,12432,SUV,Electric,41,Auto,"141 kW and 172 kW electric motors;
+240 Ah battery"
+2020,i3,BMW,211,12438,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor;
+120 Ah battery"
+2020,i3 with Range Extender,BMW,211,12447,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+125 kW electric motor"
+2020,i3s,BMW,211,12439,Sedan/Wagon,Electric,41,Auto,"135 kW electric motor;
+120 Ah battery"
+2020,i3s with Range Extender,BMW,211,12448,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+135 kW electric motor"
+2020,i8 Coupe,BMW,211,12408,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3; 
+105 kW electric motor"
+2020,i8 Roadster,BMW,211,12409,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3; 
+105 kW electric motor"
+2021,1500 2WD,Ram,349,12566,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2021,1500 2WD,Ram,349,12567,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2021,1500 4WD,Ram,349,12568,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2021,1500 4WD,Ram,349,12569,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2021,1500 HFE 4X2,Ram,349,12656,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2021,330e,BMW,211,12546,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2021,330e xDrive,BMW,211,12547,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2021,530e,BMW,211,12722,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2021,530e xDrive,BMW,211,12723,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2021,540i,BMW,211,12565,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,540i xDrive,BMW,211,12514,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,745e xDrive,BMW,211,12548,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+83 kW electric motor"
+2021,A4 S line quattro,Audi,377,12598,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A4 allroad quattro,Audi,377,12597,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A4 quattro,Audi,377,12637,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A5 Cabriolet quattro,Audi,377,12600,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A5 Sportback S line quattro,Audi,377,12601,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A5 Sportback quattro,Audi,377,12638,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A5 quattro,Audi,377,12599,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A6 Allroad,Audi,377,12507,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,A6 quattro,Audi,377,12602,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,A6 quattro,Audi,377,12506,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,A7 quattro,Audi,377,12510,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,A7 quattro,Audi,377,12611,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2021,A8L,Audi,377,12612,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+100 kW electric motor"
+2021,A8L,Audi,377,12557,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,A8L,Audi,377,12511,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG CLS 53 4MATIC+,Mercedes-Benz,239,12648,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG E53 4MATIC+,Mercedes-Benz,239,12649,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG E53 4MATIC+ (Convertible),Mercedes-Benz,239,12651,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG E53 4MATIC+ (Coupe),Mercedes-Benz,239,12650,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG GLE 53 4MATIC+,Mercedes-Benz,239,12532,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG GLE 53 4MATIC+ Coupe,Mercedes-Benz,239,12533,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG GLE 63 4MATIC+,Mercedes-Benz,239,12534,SUV,Hybrid Electric,45,Auto,4.0L V8
+2021,AMG GLE 63 S 4MATIC+ Coupe,Mercedes-Benz,239,12678,SUV,Hybrid Electric,45,Auto,4.0L V8
+2021,AMG GLS 63 4MATIC+,Mercedes-Benz,239,12535,SUV,Hybrid Electric,45,Auto,4.0L V8
+2021,AMG GT 43 4MATIC+,Mercedes-Benz,239,12646,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,AMG GT 53 4MATIC+,Mercedes-Benz,239,12647,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,Accord,Honda,209,12641,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,Accord Sport/Touring,Honda,209,12642,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,Avalon Hybrid,Toyota,221,12536,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Avalon Hybrid XLE,Toyota,221,12537,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Aviator AWD PHEV,Lincoln,227,12616,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+74 kW electric motor"
+2021,Bentayga,Bentley Motors,355,12719,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+100 kW electric motor"
+2021,Bolt EV,Chevrolet,215,12696,Sedan/Wagon,Electric,41,,"150 kW electric motor;
+189 Ah battery"
+2021,CLS 450,Mercedes-Benz,239,12606,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,CLS 450 4MATIC,Mercedes-Benz,239,12607,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,CR-V AWD,Honda,209,12643,SUV,Hybrid Electric,45,Auto,2.0L I4
+2021,Camry Hybrid LE,Toyota,221,12609,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Camry Hybrid SE/XLE/XSE,Toyota,221,12610,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Cayenne Turbo S e-Hybrid,Porsche,391,12732,SUV,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+99 kW electric motor"
+2021,Cayenne Turbo S e-Hybrid Coupe,Porsche,391,12733,SUV,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+99 kW electric motor"
+2021,Cayenne e-Hybrid,Porsche,391,12734,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+99 kW electric motor"
+2021,Cayenne e-Hybrid Coupe,Porsche,391,12735,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+99 kW electric motor"
+2021,Clarity PHEV,Honda,209,12550,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I4;
+135 kW electric motor"
+2021,Cooper SE Countryman ALL4,Mini,425,12587,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+65 kW electric motor"
+2021,Cooper SE Hardtop 2 door,Mini,425,12556,Sedan/Wagon,Electric,41,Auto,"135 kW electric motor;
+93 Ah battery"
+2021,Corolla Hybrid,Toyota,221,12538,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2021,Corsair AWD PHEV,Lincoln,227,12731,SUV,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+36 kW and  50 kW electric motors"
+2021,Crosstrek Hybrid AWD,Subaru,383,12713,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+88 kW electric motor"
+2021,Defender 110 MHEV,Land Rover,387,12581,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,Defender 90 MHEV,Land Rover,387,12580,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,Discovery MHEV,Land Rover,387,12718,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 (Convertible),Mercedes-Benz,239,12653,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 (Coupe),Mercedes-Benz,239,12652,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 4MATIC,Mercedes-Benz,239,12608,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 4MATIC,Mercedes-Benz,239,12663,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 4MATIC (Convertible),Mercedes-Benz,239,12655,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 4MATIC (Coupe),Mercedes-Benz,239,12654,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E 450 4MATIC All-Terrain (wagon),Mercedes-Benz,239,12591,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,E-PACE MHEV,Jaguar,385,12726,SUV,Hybrid Electric,45,Auto,2.0L I4
+2021,ES 300h,Lexus,243,12582,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Elantra Hybrid,Hyundai,351,12689,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Elantra Hybrid Blue,Hyundai,351,12690,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Escape AWD HEV,Ford,219,12705,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Escape FWD HEV,Ford,219,12704,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2021,Escape FWD PHEV,Ford,219,12764,SUV,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+62 kW electric motor"
+2021,Explorer HEV AWD,Ford,219,12604,SUV,Hybrid Electric,45,Auto,3.3L V6
+2021,Explorer HEV RWD,Ford,219,12639,SUV,Hybrid Electric,45,Auto,3.3L V6
+2021,F-PACE P340 MHEV,Jaguar,385,12708,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,F-PACE P400 MHEV,Jaguar,385,12709,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,F150 Pickup 2WD HEV,Ford,219,12694,Pickup,Hybrid Electric,45,Auto,3.5L V6
+2021,F150 Pickup 4WD HEV,Ford,219,12640,Pickup,Hybrid Electric,45,Auto,3.5L V6
+2021,GLE 450 4MATIC,Mercedes-Benz,239,12592,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,GLE 580 4MATIC,Mercedes-Benz,239,12679,SUV,Hybrid Electric,45,Auto,4.0L V8
+2021,GLS 450 4MATIC,Mercedes-Benz,239,12593,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,GLS 580 4MATIC,Mercedes-Benz,239,12680,SUV,Hybrid Electric,45,Auto,4.0L V8
+2021,GLS 600 4MATIC Maybach,Mercedes-Benz,239,12681,SUV,Hybrid Electric,45,Auto,4.0L V8
+2021,"GS-6 (21"" wheels)",Karma,424,12682,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+175 kW electric motors (x2)"
+2021,Highlander Hybrid,Toyota,221,12584,SUV,Hybrid Electric,45,Auto,2.5L I4
+2021,Highlander Hybrid AWD,Toyota,221,12585,SUV,Hybrid Electric,45,Auto,2.5L I4
+2021,Highlander Hybrid AWD LTD/PLAT,Toyota,221,12586,SUV,Hybrid Electric,45,Auto,2.5L I4
+2021,I-PACE EV400,Jaguar,385,12757,SUV,Electric,41,Auto,223 Ah battery
+2021,ID.4 1st,Volkswagen,347,12674,SUV,Electric,41,Auto,"150 kW electric motor;
+234 Ah battery"
+2021,ID.4 AWD Pro,Volkswagen,347,12996,SUV,Electric,41,Auto,"80 and 150 kW electric motors;
+234 Ah battery"
+2021,ID.4 Pro,Volkswagen,347,12838,SUV,Electric,41,Auto,"150 kW electric motor;
+234 Ah battery"
+2021,ID.4 Pro S,Volkswagen,347,12675,SUV,Electric,41,Auto,"150 kW electric motor;
+234 Ah battery"
+2021,ID.4 Pro S AWD ,Volkswagen,347,12995,SUV,Electric,41,Auto,"80 and 150 kW electric motors;
+234 Ah battery"
+2021,Insight,Honda,209,12521,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2021,Insight Touring,Honda,209,12522,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2021,Ioniq,Hyundai,351,12676,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Ioniq Blue,Hyundai,351,12677,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Ioniq Electric,Hyundai,351,12756,Sedan/Wagon,Electric,41,Auto,"100 kW electric motor;
+120 Ah battery"
+2021,Ioniq Plug-in Hybrid,Hyundai,351,12720,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+45 kW electric motor"
+2021,K27,Kandi,466,12686,Sedan/Wagon,Electric,41,Auto,"20 kW electric motor;
+57 Ah battery"
+2021,Kona Electric,Hyundai,351,12725,SUV,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2021,LC 500h,Lexus,243,12528,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2021,LS 500h,Lexus,243,12727,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2021,LS 500h AWD,Lexus,243,12728,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2021,Leaf (40 kWh battery pack),Nissan,217,12697,Sedan/Wagon,Electric,41,Auto,"110 kW electric motor;
+115 Ah battery"
+2021,Leaf (62 kWh battery pack),Nissan,217,12700,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2021,Leaf SV/SL (62 kWh battery pack),Nissan,217,12699,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2021,M340i,BMW,211,12512,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,M340i xDrive,BMW,211,12513,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,M440i Convertible,BMW,211,12753,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,M440i xDrive Coupe,BMW,211,12590,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,Model 3 Long Range AWD,Tesla,237,12626,Sedan/Wagon,Electric,41,Auto,"131 kW and 190 kW electric motors;
+235 Ah battery"
+2021,Model 3 Performance AWD,Tesla,237,12627,Sedan/Wagon,Electric,41,Auto,"131 kW and 190 kW electric motors;
+235 Ah battery"
+2021,Model 3 Standard Range Plus RWD,Tesla,237,12752,Sedan/Wagon,Electric,41,Auto,198 kW electric motor; 158 Ah battery
+2021,Model S Long Range,Tesla,237,12774,Sedan/Wagon,Electric,41,Auto,"179 kW and 186 kW electric motors; 
+305 Ah battery"
+2021,"Model S Performance (19"" Wheels)",Tesla,237,12673,Sedan/Wagon,Electric,41,Auto,"149 kW and 276 kW electric motors;
+305 Ah battery"
+2021,"Model S Plaid (21"" Wheels)",Tesla,237,12776,Sedan/Wagon,Electric,41,Auto,"250 kW electric motors (X3);
+256 Ah battery"
+2021,Model X Long Range Plus,Tesla,237,12624,SUV,Electric,41,Auto,"180 and 189 kW electric motors;
+305 Ah battery"
+2021,"Model X Performance (20"" Wheels)",Tesla,237,12625,SUV,Electric,41,Auto,"151 kW and 273 kW electric motors;
+305 Ah battery"
+2021,Model Y Long Range AWD,Tesla,237,12629,SUV,Electric,41,Auto,"69 and 201 kW electric motors;
+235 Ah battery"
+2021,Model Y Performance AWD,Tesla,237,12628,SUV,Electric,41,Auto,"133 and 179 kW electric motors;
+235 Ah battery"
+2021,Model Y Standard Range RWD,Tesla,237,12760,SUV,Electric,41,Auto,"209 kW electric motor;
+158 Ah battery"
+2021,Mustang Mach-E AWD,Ford,219,12666,Sedan/Wagon,Electric,41,Auto,"198 kW electric motor;
+216 kWh battery"
+2021,Mustang Mach-E AWD Extended,Ford,219,12667,Sedan/Wagon,Electric,41,Auto,"209 kW electric motor;
+288 kWh battery"
+2021,Mustang Mach-E GT AWD,Ford,219,12994,Sedan/Wagon,Electric,41,Auto,"179  kW electric motors (X2);
+288 Ah battery"
+2021,Mustang Mach-E GT AWD,Ford,219,12993,Sedan/Wagon,Electric,41,Auto,"179  kW electric motors (X2);
+288 Ah battery"
+2021,Mustang Mach-E RWD,Ford,219,12664,Sedan/Wagon,Electric,41,Auto,"198 kW electric motor;
+216 kWh battery"
+2021,Mustang Mach-E RWD California Route 1,Ford,219,12714,Sedan/Wagon,Electric,41,Auto,"216 kW electric motor;
+288 kWh battery"
+2021,Mustang Mach-E RWD Extended,Ford,219,12665,Sedan/Wagon,Electric,41,Auto,"216 kW electric motor;
+288 kWh battery"
+2021,NSX,Acura,365,12717,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2021,NX 300h AWD,Lexus,243,12529,SUV,Hybrid Electric,45,Auto,2.5L I4
+2021,Niro,Kia,361,12691,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Niro Electric,Kia,361,12751,Sedan/Wagon,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2021,Niro FE,Kia,361,12692,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Niro Plug-in Hybrid,Kia,361,12712,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+45 kW electric motor"
+2021,Niro Touring,Kia,361,12693,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Outlander PHEV,Mitsubishi,263,12721,SUV,Plug-in Hybrid Electric,57,Auto,"2.4L I4;
+60 kW and 70 kW electric motors"
+2021,Pacifica Hybrid,Chrysler,223,12660,Van,Plug-in Hybrid Electric,57,Auto,"3.6L V6;
+89 kW electric motor"
+2021,Panamera 4 E-Hybrid,Porsche,391,12765,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2021,Panamera 4 E-Hybrid Executive,Porsche,391,12768,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2021,Panamera 4 E-Hybrid ST,Porsche,391,12767,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2021,Panamera 4S E-Hybrid,Porsche,391,12766,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2021,Panamera 4S E-Hybrid Executive,Porsche,391,12769,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2021,Panamera 4S E-Hybrid ST,Porsche,391,12770,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2021,Panamera Turbo S E-Hybrid,Porsche,391,12771,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+100 kW electric motor"
+2021,Panamera Turbo S E-Hybrid Executive,Porsche,391,12772,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+100 kW electric motor"
+2021,Panamera Turbo S E-Hybrid ST,Porsche,391,12773,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+100 kW electric motor"
+2021,Polestar 2,Polestar Automotive USA,462,12595,Sedan/Wagon,Electric,41,Auto,"150 kW electric motor;
+196 Ah battery"
+2021,Polestar I,Polestar Automotive USA,462,12588,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4; 
+52, 85, 85kW 3-phase Sync. electric motor"
+2021,Prius,Toyota,221,12539,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2021,Prius AWD,Toyota,221,12540,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2021,Prius Eco,Toyota,221,12541,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2021,Prius Prime,Toyota,221,12551,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.8L I4;
+23 & 53 kW electric motor"
+2021,Q5,Audi,377,12659,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2021,Q5,Audi,377,12603,SUV,Hybrid Electric,45,Auto,2.0L I4
+2021,Q5 Sportback,Audi,377,12703,SUV,Hybrid Electric,45,Auto,2.0L I4
+2021,Q7,Audi,377,12558,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,Q8,Audi,377,12559,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,RAV4 Hybrid AWD,Toyota,221,12542,SUV,Hybrid Electric,45,Auto,2.5L I4
+2021,RAV4 Prime AWD,Toyota,221,12552,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+40 & 134 kW electric motor"
+2021,RS 6 Avant,Audi,377,12560,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,RS Q8,Audi,377,12563,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,RS7,Audi,377,12561,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,RX 450h AWD,Lexus,243,12583,SUV,Hybrid Electric,45,Auto,3.5L V6
+2021,RX 450h L AWD,Lexus,243,12530,SUV,Hybrid Electric,45,Auto,3.5L V6
+2021,Range Rover MHEV,Land Rover,387,12605,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,Range Rover PHEV,Land Rover,387,12614,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2021,Range Rover Sport MHEV,Land Rover,387,12527,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,Range Rover Sport PHEV,Land Rover,387,12615,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2021,Range Rover Velar P340 MHEV,Land Rover,387,12710,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,Range Rover Velar P400 MHEV,Land Rover,387,12711,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,"Revero GT (21"" wheels)",Karma,424,12661,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+175 kW electric motors (x2)"
+2021,S 500 4MATIC,Mercedes-Benz,239,12839,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2021,S 580 4MATIC,Mercedes-Benz,239,12840,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,S 580 4MATIC Maybach,Mercedes-Benz,239,12841,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,S6,Audi,377,12508,Sedan/Wagon,Hybrid Electric,45,Auto,2.9L V6
+2021,S60 AWD,Volvo,395,12662,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2021,S7,Audi,377,12509,Sedan/Wagon,Hybrid Electric,45,Auto,2.9L V6
+2021,S8,Audi,377,12562,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2021,S90 AWD,Volvo,395,12553,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2021,SF90 Stradale Coupe,Ferrari,409,12613,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.9L V8;
+150 kW electric motor"
+2021,Santa Fe Hybrid,Hyundai,351,12706,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Santa Fe Hybrid Blue,Hyundai,351,12707,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2021,Sienna,Toyota,221,12657,Van,Hybrid Electric,45,Auto,2.5L I4
+2021,Sienna AWD,Toyota,221,12658,Van,Hybrid Electric,45,Auto,2.5L I4
+2021,Sonata Hybrid,Hyundai,351,12523,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,Sonata Hybrid Blue,Hyundai,351,12524,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,Sorento Hybrid,Kia,361,12579,SUV,Hybrid Electric,45,Auto,1.6L I4
+2021,Taycan 4S Perf Battery,Porsche,391,12701,Sedan/Wagon,Electric,41,Auto,"194 and 280 kW electric motors;
+129 Ah battery"
+2021,Taycan 4S Perf Battery Plus,Porsche,391,12702,Sedan/Wagon,Electric,41,Auto,"210 and 250 kW electric motors;
+129 Ah battery"
+2021,Taycan Perf Battery,Porsche,391,12739,Sedan/Wagon,Electric,41,Auto,240 kW electric motor; 129 Ah battery
+2021,Taycan Perf Battery Plus,Porsche,391,12740,Sedan/Wagon,Electric,41,Auto,280 kW electric motor; 129 Ah battery
+2021,Taycan Turbo,Porsche,391,12759,Sedan/Wagon,Electric,41,Auto,129 Ah battery
+2021,Taycan Turbo S,Porsche,391,12758,Sedan/Wagon,Electric,41,Auto,129 Ah battery
+2021,UX 250h,Lexus,243,12644,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,UX 250h AWD,Lexus,243,12645,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2021,V60 AWD,Volvo,395,12554,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2021,Venza AWD,Toyota,221,12543,SUV,Hybrid Electric,45,Auto,2.5L I4
+2021,Wrangler 2dr 4x4,Jeep,275,12525,SUV,Hybrid Electric,45,Auto,3.6L V6
+2021,Wrangler 4dr 4x4,Jeep,275,12526,SUV,Hybrid Electric,45,Auto,3.6L V6
+2021,Wrangler 4dr 4xe,Jeep,275,12747,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+100 kW electric motor"
+2021,X3 xDrive30e,BMW,211,12724,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2021,X5 sDrive40i 2WD,BMW,211,12515,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,X5 sDrive40i 4WD,BMW,211,12516,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,X5 xDrive45e,BMW,211,12549,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+83 kW electric motor"
+2021,X6 sDrive40i 2WD,BMW,211,12517,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,X6 sDrive40i 4WD,BMW,211,12518,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,X7 sDrive40i 4WD,BMW,211,12519,SUV,Hybrid Electric,45,Auto,3.0L V6
+2021,XC40 Recharge,Volvo,395,12596,SUV,Electric,41,Auto,"150 kW electric motor;
+196 Ah battery"
+2021,XC60 AWD,Volvo,395,12589,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2021,XC90 AWD,Volvo,395,12555,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2021,e-tron,Audi,377,12623,SUV,Electric,41,Auto,"141 kW and 172 kW electric motors;
+240 Ah battery"
+2021,e-tron Sportback,Audi,377,12622,SUV,Electric,41,Auto,"141 kW and 172 kW electric motors;
+240 Ah battery"
+2021,i3,BMW,211,12750,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor;
+120 Ah battery"
+2021,i3 with Range Extender,BMW,211,12729,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+125 kW electric motor"
+2021,i3s,BMW,211,12695,Sedan/Wagon,Electric,41,Auto,"135 kW electric motor;
+120 Ah battery"
+2021,i3s with Range Extender,BMW,211,12730,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"0.6L I2;
+135 kW electric motor"
+2022,1500 4X2,Ram,349,12872,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2022,1500 4X2,Ram,349,12871,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2022,1500 4X4,Ram,349,12874,Pickup,Hybrid Electric,45,Auto,3.6L V8
+2022,1500 4X4,Ram,349,12873,Pickup,Hybrid Electric,45,Auto,5.7L V8
+2022,1500 HFE 4X2,Ram,349,12870,Pickup,Hybrid Electric,45,Auto,3.6L V6
+2022,330e Sedan,BMW,211,13067,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2022,330e xDrive,BMW,211,13068,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2022,530e Sedan,BMW,211,13069,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2022,530e xDrive Sedan,BMW,211,13070,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+80 kW electric motor"
+2022,540i Sedan,BMW,211,12859,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,540i xDrive Sedan,BMW,211,12805,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,745e xDrive,BMW,211,13071,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+83 kW electric motor"
+2022,A3 ,Audi,377,12854,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A3 quattro,Audi,377,12842,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A4 S line quattro,Audi,377,12784,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A4 allroad quattro,Audi,377,12783,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A4 quattro,Audi,377,12782,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A5 Cabriolet quattro,Audi,377,12786,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A5 Coupe quattro,Audi,377,12785,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A5 Sportback S line quattro,Audi,377,12788,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A5 Sportback quattro,Audi,377,12787,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A6 Allroad quattro,Audi,377,12791,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,A6 quattro,Audi,377,12789,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,A6 quattro,Audi,377,12790,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,A7 TFSI e quattro,Audi,377,12831,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2022,A7 quattro,Audi,377,12794,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,A8L quattro,Audi,377,12928,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG E53 4MATIC+,Mercedes-Benz,239,12986,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG E53 4MATIC+ (Convertible),Mercedes-Benz,239,12988,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG E53 4MATIC+ (Coupe),Mercedes-Benz,239,12987,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG GLE 53 4MATIC+,Mercedes-Benz,239,12932,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG GLE 53 4MATIC+ (Coupe),Mercedes-Benz,239,12989,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG GT 43 4MATIC+,Mercedes-Benz,239,12984,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,AMG GT 53 4MATIC+,Mercedes-Benz,239,12985,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,Accord,Honda,209,12930,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,Accord Sport/Touring,Honda,209,12929,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,"Air Dream P AWD w/19"" wheels","Lucid USA, Inc.",469,12894,Sedan/Wagon,Electric,41,Auto,"370kW and 459kW electrics motors;
+150Ah battery"
+2022,"Air Dream P AWD w/21"" wheels","Lucid USA, Inc.",469,12895,Sedan/Wagon,Electric,41,Auto,"370kW and 459kW electrics motors;
+150Ah battery"
+2022,"Air Dream R AWD w/19"" wheels","Lucid USA, Inc.",469,12896,Sedan/Wagon,Electric,41,Auto,"198kW and 498kW electrics motors;
+150Ah battery"
+2022,"Air Dream R AWD w/21"" wheels","Lucid USA, Inc.",469,12897,Sedan/Wagon,Electric,41,Auto,"198kW and 498kW electrics motors;
+150Ah battery"
+2022,"Air G Touring AWD w/19"" wheels","Lucid USA, Inc.",469,12898,Sedan/Wagon,Electric,41,Auto,"178kW and 433kW electrics motors;
+143Ah battery"
+2022,"Air G Touring AWD w/21"" wheels","Lucid USA, Inc.",469,12899,Sedan/Wagon,Electric,41,Auto,"178kW and 433kW electrics motors;
+143Ah battery"
+2022,Avalon Hybrid ,Toyota,221,12875,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,Avalon Hybrid XLE,Toyota,221,12876,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,Aviator AWD PHEV,Lincoln,227,12903,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+74 kW electric motor"
+2022,Bolt EUV,Chevrolet,215,12778,Sedan/Wagon,Electric,41,,"150 kW electric motor;
+189 Ah battery"
+2022,Bolt EV,Chevrolet,215,12777,Sedan/Wagon,Electric,41,,"150 kW electric motor;
+189 Ah battery"
+2022,C40 Recharge Twin,Volvo,395,13022,SUV,Electric,41,Auto,"150 kW electric motors (X2);
+196 Ah battery"
+2022,CLS 450 4MATIC,Mercedes-Benz,239,12933,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,CR-V AWD,Honda,209,12886,SUV,Hybrid Electric,45,Auto,2.0L I4
+2022,Camry Hybrid LE,Toyota,221,12877,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,Camry Hybrid SE/XLE/XSE,Toyota,221,12878,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,Cayenne Turbo S/Coupe e-Hybrid ,Porsche,391,12890,SUV,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+99 kW electric motor"
+2022,Cayenne/Coupe/Platinum e-Hybrid,Porsche,391,12891,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L V6;
+99 kW electric motor"
+2022,Cooper SE Countryman ALL4,Mini,425,12837,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.5L I3;
+65 kW electric motor"
+2022,Cooper SE Hardtop 2 door,Mini,425,12779,Sedan/Wagon,Electric,41,Auto,"135 kW electric motor;
+93 Ah battery"
+2022,Corolla Hybrid,Toyota,221,12827,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2022,Corsair AWD PHEV,Lincoln,227,13040,SUV,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+50 kW and 96 kW electric motors"
+2022,Defender 110 MHEV,Land Rover,387,12823,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Defender 90 MHEV,Land Rover,387,12822,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Discovery MHEV,Land Rover,387,12824,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,E 450 (Convertible),Mercedes-Benz,239,12943,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,E 450 (Coupe),Mercedes-Benz,239,12942,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,E 450 4MATIC,Mercedes-Benz,239,12934,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,E 450 4MATIC (Convertible),Mercedes-Benz,239,12945,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,E 450 4MATIC (Coupe),Mercedes-Benz,239,12944,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,E 450 4MATIC All-Terrain (wagon),Mercedes-Benz,239,12935,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,E-PACE MHEV,Jaguar,385,12843,SUV,Hybrid Electric,45,Auto,2.0L I4
+2022,EQS 580 4MATIC,Mercedes-Benz,239,12959,Sedan/Wagon,Electric,41,Auto,"135 kW and 255 kW electric motors;
+282 Ah battery"
+2022,EQS450+,Mercedes-Benz,239,12958,Sedan/Wagon,Electric,41,Auto,"245 kW electric motor;
+282 Ah battery"
+2022,ES 300h,Lexus,243,12902,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,EV6 AWD (Long Range) ,Kia,361,13008,Sedan/Wagon,Electric,41,Auto,"74 kW and 165 kW electric motors;
+111 Ah battery"
+2022,EV6 RWD,Kia,361,13006,Sedan/Wagon,Electric,41,Auto,"125 kW electric motor;
+111 Ah battery"
+2022,EV6 RWD (Long Range) ,Kia,361,13007,Sedan/Wagon,Electric,41,Auto,"168 kW electric motor;
+111 Ah battery"
+2022,Elantra Hybrid,Hyundai,351,12808,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Elantra Hybrid Blue,Hyundai,351,12809,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Escape AWD HEV,Ford,219,12982,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,Escape FWD HEV,Ford,219,12981,Sedan/Wagon,Hybrid Electric,45,Auto,2.5L I4
+2022,Escape FWD PHEV,Ford,219,13037,SUV,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+96 kW electric motor"
+2022,Explorer HEV AWD,Ford,219,12980,SUV,Hybrid Electric,45,Auto,3.3L V6
+2022,Explorer HEV RWD,Ford,219,12978,SUV,Hybrid Electric,45,Auto,3.3L V6
+2022,Explorer Platinum HEV ,Ford,219,12979,SUV,Hybrid Electric,45,Auto,3.3L V6
+2022,Explorer Platinum HEV ,Ford,219,13024,SUV,Hybrid Electric,45,Auto,3.3L V6
+2022,F-PACE P340 MHEV,Jaguar,385,13027,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,F-PACE P400 MHEV,Jaguar,385,13045,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,F150 Pickup 2WD HEV,Ford,219,13025,Pickup,Hybrid Electric,45,Auto,3.5L V6
+2022,F150 Pickup 4WD HEV,Ford,219,13026,Pickup,Hybrid Electric,45,Auto,3.5L V6
+2022,GLE 450 4MATIC,Mercedes-Benz,239,12937,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,GLS 450 4MATIC,Mercedes-Benz,239,12936,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Grand Cherokee 4xe,Jeep,275,13073,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+50 kW electric motor"
+2022,Highlander Hybrid,Toyota,221,12940,SUV,Hybrid Electric,45,Auto,2.5L I4
+2022,Highlander Hybrid AWD,Toyota,221,12939,SUV,Hybrid Electric,45,Auto,2.5L I4
+2022,Highlander Hybrid AWD LTD/PLAT,Toyota,221,12938,SUV,Hybrid Electric,45,Auto,2.5L I4
+2022,Insight,Honda,209,12806,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2022,Insight Touring,Honda,209,12807,Sedan/Wagon,Hybrid Electric,45,Auto,1.5L I4
+2022,Ioniq,Hyundai,351,12810,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Ioniq 5 AWD (Long Range),Hyundai,351,13005,SUV,Electric,41,Auto,"74 kW and 165 kW electric motors;
+111 Ah battery"
+2022,Ioniq 5 RWD,Hyundai,351,13003,SUV,Electric,41,Auto,"125 kW electric motor;
+111 Ah battery"
+2022,Ioniq 5 RWD (Long Range),Hyundai,351,13004,SUV,Electric,41,Auto,"168 kW electric motor;
+111 Ah battery"
+2022,Ioniq Blue,Hyundai,351,12811,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Ioniq Plug-in Hybrid,Hyundai,351,12833,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+45 kW electric motor"
+2022,Kona Electric,Hyundai,351,12879,SUV,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2022,LC 500h,Lexus,243,12946,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2022,LS 500h AWD,Lexus,243,12983,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2022,Leaf (40 kWh battery pack),Nissan,217,12881,Sedan/Wagon,Electric,41,Auto,"110 kW electric motor;
+115 Ah battery"
+2022,Leaf (62 kWh battery pack),Nissan,217,12882,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2022,Leaf SV/SL (62 kWh battery pack),Nissan,217,12883,Sedan/Wagon,Electric,41,Auto,"160 kW electric motor;
+176 Ah battery"
+2022,M340i Sedan,BMW,211,12855,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,M340i xDrive Sedan,BMW,211,12856,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,M440i Convertible,BMW,211,12804,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,M440i Coupe,BMW,211,12802,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,M440i xDrive Convertible,BMW,211,12857,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,M440i xDrive Coupe,BMW,211,12858,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,M440i xDrive Gran Coupe,BMW,211,12803,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,MX-30,Mazda,229,12957,Sedan/Wagon,Electric,41,,"81 kW electric motor;
+100 Ah battery"
+2022,Maverick Pickup HEV,Ford,219,13066,Pickup,Hybrid Electric,45,Auto,2.5L I4
+2022,Model 3 (Long Range) AWD,Tesla,237,13014,Sedan/Wagon,Electric,41,Auto,"98 kW and 195 kW electric motors; 
+235 Ah battery"
+2022,Model 3 Performance AWD,Tesla,237,13015,Sedan/Wagon,Electric,41,Auto,"131kW and 190 kW electric motors; 
+235 Ah battery"
+2022,Model 3 RWD,Tesla,237,13013,Sedan/Wagon,Electric,41,Auto,"192 kW electric motor; 
+174 Ah battery"
+2022,Model S ,Tesla,237,13010,Sedan/Wagon,Electric,41,Auto,"247 kW dual electric motors;
+256 Ah battery"
+2022,"Model S Plaid (19"" Wheels)",Tesla,237,13012,Sedan/Wagon,Electric,41,Auto,"250 kW electric motors (X3);
+256 Ah battery"
+2022,"Model S Plaid (21"" Wheels)",Tesla,237,13011,Sedan/Wagon,Electric,41,Auto,"250 kW electric motors (X3);
+256 Ah battery"
+2022,Model X AWD,Tesla,237,13019,SUV,Electric,41,Auto,"243 and 248 kW electric motors;
+256 Ah battery"
+2022,"Model X Plaid (20"" Wheels)",Tesla,237,13020,SUV,Electric,41,Auto,"230kW electric motors (X3);
+256 Ah battery"
+2022,"Model X Plaid (22"" Wheels)",Tesla,237,13021,SUV,Electric,41,Auto,"230kW electric motors (X3);
+256 Ah battery"
+2022,Model Y (Long Range) AWD,Tesla,237,13017,SUV,Electric,41,Auto,"91 and 200 kW electric motors;
+235 Ah battery"
+2022,Model Y Performance AWD,Tesla,237,13016,SUV,Electric,41,Auto,"133 and 179 kW electric motors;
+235 Ah battery"
+2022,Model Y RWD,Tesla,237,13018,SUV,Electric,41,Auto,"209 kW electric motor;
+158 Ah battery"
+2022,Mustang Mach-E AWD,Ford,219,13059,SUV,Electric,41,Auto,"198 kW electric motors (x2);
+216 Ah battery"
+2022,Mustang Mach-E AWD California Route 1,Ford,219,13056,SUV,Electric,41,Auto,"258 kW electric motors (x2);
+288 Ah battery"
+2022,Mustang Mach-E AWD Extended,Ford,219,13060,SUV,Electric,41,Auto,"258 kW electric motors (x2);
+288 Ah battery"
+2022,Mustang Mach-E GT AWD,Ford,219,13057,SUV,Electric,41,Auto,"179  kW electric motors (X2);
+288 Ah battery"
+2022,Mustang Mach-E GT Performance,Ford,219,13058,SUV,Electric,41,Auto,"179  kW electric motor;
+288 Ah battery"
+2022,Mustang Mach-E RWD,Ford,219,13053,SUV,Electric,41,Auto,"198 kW electric motor;
+216 kWh battery"
+2022,Mustang Mach-E RWD California Route 1,Ford,219,13055,SUV,Electric,41,Auto,"216 kW electric motor;
+288 Ah battery"
+2022,Mustang Mach-E RWD Extended,Ford,219,13054,SUV,Electric,41,Auto,"216 kW electric motor;
+288 Ah battery"
+2022,NSX,Acura,365,13044,Sedan/Wagon,Hybrid Electric,45,Auto,3.5L V6
+2022,NX 350h AWD,Lexus,243,12931,SUV,Hybrid Electric,45,Auto,2.5L I4
+2022,NX 450+ AWD,Lexus,243,13039,SUV,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+40kW and 134kW electric motors;"
+2022,Niro,Kia,361,12818,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Niro Electric,Kia,361,12880,Sedan/Wagon,Electric,41,Auto,"150 kW electric motor;
+180 Ah battery"
+2022,Niro FE,Kia,361,12819,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Niro Plug-in Hybrid,Kia,361,12835,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+45 kW electric motor"
+2022,Niro Touring,Kia,361,12820,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Outlander PHEV,Mitsubishi,263,12904,SUV,Plug-in Hybrid Electric,57,Auto,"2.4L I4;
+60 kW and 70 kW electric motors"
+2022,Pacifica Hybrid,Chrysler,223,13035,Van,Plug-in Hybrid Electric,57,Auto,"3.6L V6;
+89 kW electric motor"
+2022,Panamera 4 E-Hybrid Executive,Porsche,391,12947,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2022,Panamera 4S E-Hybrid Executive,Porsche,391,12948,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.9L V6;
+70 kW electric motor"
+2022,Panamera Turbo S E-Hybrid Executive,Porsche,391,12992,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"4.0L V8;
+100 kW electric motor"
+2022,Polestar 2 (Dual Motor),Polestar Automotive USA,462,12884,Sedan/Wagon,Electric,41,Auto,"dual 150 kW electric motors (300kW total);
+196 Ah battery"
+2022,Polestar 2 (Single Motor),Polestar Automotive USA,462,13009,Sedan/Wagon,Electric,41,Auto,"170kW electric motor;
+196 Ah battery"
+2022,Prius,Toyota,221,12828,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2022,Prius AWD,Toyota,221,12829,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2022,Prius Eco,Toyota,221,12830,Sedan/Wagon,Hybrid Electric,45,Auto,1.8L I4
+2022,Prius Prime,Toyota,221,12892,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.8L I4;
+23 & 53 kW electric motor"
+2022,Q4 e-tron Sportback quattro,Audi,377,12955,SUV,Electric,41,Auto,"80 kW and 150 kW electric motors;
+234 Ah battery"
+2022,Q4 e-tron quattro,Audi,377,12954,SUV,Electric,41,Auto,"80 kW and 150 kW electric motors;
+234 Ah battery"
+2022,Q5 S line quattro,Audi,377,12795,SUV,Hybrid Electric,45,Auto,2.0L I4
+2022,Q5 Sportback S line quattro,Audi,377,12796,SUV,Hybrid Electric,45,Auto,2.0L I4
+2022,Q5 TFSI e quattro,Audi,377,12832,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2022,Q5 quattro,Audi,377,13023,SUV,Hybrid Electric,45,Auto,2.0L I4
+2022,Q7 quattro,Audi,377,12797,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Q8 quattro,Audi,377,12798,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,R1S,Rivian ,470,12970,SUV,Electric,41,Auto,"162, 162, 163, 163kW electric independent electric motors;
+360Ah battery"
+2022,R1T,Rivian ,470,12971,Pickup,Electric,41,Auto,"162, 162, 163, 163kW electric independent electric motors;
+360Ah battery"
+2022,RAV4 Hybrid AWD,Toyota,221,13034,SUV,Hybrid Electric,45,Auto,2.5L I4
+2022,RAV4 Prime AWD,Toyota,221,13041,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.5L I4;
+40 & 134 kW electric motors"
+2022,RS 6 Avant,Audi,377,12799,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2022,RS Q8,Audi,377,12801,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2022,RS e-tron GT,Audi,377,12956,SUV,Electric,41,Auto,"335 kW electric motor;
+723 Ah battery"
+2022,RS7,Audi,377,12800,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2022,RX 450h AWD,Lexus,243,12887,SUV,Hybrid Electric,45,Auto,3.5L V6
+2022,RX 450h L AWD,Lexus,243,12844,SUV,Hybrid Electric,45,Auto,3.5L V6
+2022,Range Rover Evoque MHEV,Land Rover,387,12901,SUV,Hybrid Electric,45,Auto,2.0L I4
+2022,Range Rover P360 MHEV,Land Rover,387,12868,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Range Rover P400 MHEV,Land Rover,387,12869,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Range Rover Sport P360 MHEV,Land Rover,387,12825,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Range Rover Sport P400 MHEV,Land Rover,387,12826,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Range Rover Sport PHEV,Land Rover,387,12836,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+105 kW electric motor"
+2022,Range Rover Velar P340 MHEV,Land Rover,387,13030,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,Range Rover Velar P400 MHEV,Land Rover,387,13031,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,S 500 4MATIC,Mercedes-Benz,239,12990,Sedan/Wagon,Hybrid Electric,45,Auto,3.0L V6
+2022,S 580 4MATIC,Mercedes-Benz,239,13032,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2022,S 580 4MATIC Maybach,Mercedes-Benz,239,13033,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2022,S6,Audi,377,12792,Sedan/Wagon,Hybrid Electric,45,Auto,2.9L V6
+2022,S60 T8 AWD Recharge,Volvo,395,12845,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2022,S7,Audi,377,12793,Sedan/Wagon,Hybrid Electric,45,Auto,2.9L V6
+2022,S8,Audi,377,12977,Sedan/Wagon,Hybrid Electric,45,Auto,4.0L V8
+2022,S90 T8 AWD Recharge,Volvo,395,12846,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2022,SF90 Stradale ,Ferrari,409,13036,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"3.9L V8;
+99kW, 99kW, and 150kW electric motors"
+2022,Santa Fe Hybrid,Hyundai,351,12812,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Santa Fe Hybrid Blue,Hyundai,351,12813,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Santa Fe Plug-in Hybrid,Hyundai,351,12834,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+45 kW electric motor"
+2022,Sienna AWD,Toyota,221,12941,Van,Hybrid Electric,45,Auto,2.5L I4
+2022,Sonata Hybrid,Hyundai,351,12814,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,Sonata Hybrid Blue,Hyundai,351,12815,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,Sorento Hybrid AWD,Kia,361,12900,SUV,Hybrid Electric,45,Auto,1.6L I4
+2022,Sorento Hybrid FWD,Kia,361,12821,SUV,Hybrid Electric,45,Auto,1.6L I4
+2022,Sorento Plug-in Hybrid,Kia,361,12889,SUV,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+67 kW electric motor"
+2022,Taycan 4 Cross Turismo,Porsche,391,12966,Sedan/Wagon,Electric,41,Auto,"175 and 320 kW electric motors;
+129 Ah battery"
+2022,Taycan 4S Cross Turismo,Porsche,391,12967,Sedan/Wagon,Electric,41,Auto,"175 and 320 kW electric motors;
+129 Ah battery"
+2022,Taycan 4S Perf Battery,Porsche,391,12960,Sedan/Wagon,Electric,41,Auto,"150 and 270 kW electric motors;
+129 Ah battery"
+2022,Taycan 4S Perf Battery Plus,Porsche,391,12961,Sedan/Wagon,Electric,41,Auto,"175 and 320 kW electric motors;
+129 Ah battery"
+2022,Taycan Perf Battery,Porsche,391,12964,Sedan/Wagon,Electric,41,Auto,"240 kW electric motor; 
+129 Ah battery"
+2022,Taycan Perf Battery Plus,Porsche,391,12965,Sedan/Wagon,Electric,41,Auto,"280 kW electric motor; 
+129 Ah battery"
+2022,Taycan Turbo,Porsche,391,12962,Sedan/Wagon,Electric,41,Auto,"170 and 335 kW electric motors;
+129 Ah battery"
+2022,Taycan Turbo Cross Turismo,Porsche,391,12968,Sedan/Wagon,Electric,41,Auto,"175 and 355 kW electric motors;
+129 Ah battery"
+2022,Taycan Turbo S,Porsche,391,12963,Sedan/Wagon,Electric,41,Auto,"190 and 335 kW electric motors;
+129 Ah battery"
+2022,Taycan Turbo S Cross Turismo,Porsche,391,12969,Sedan/Wagon,Electric,41,Auto,"175 and 355 kW electric motors;
+129 Ah battery"
+2022,Tucson Hybrid,Hyundai,351,12816,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Tucson Hybrid Blue,Hyundai,351,12817,Sedan/Wagon,Hybrid Electric,45,Auto,1.6L I4
+2022,Tucson Plug-in Hybrid,Hyundai,351,12888,SUV,Plug-in Hybrid Electric,57,Auto,"1.6L I4;
+67 kW electric motor"
+2022,UX 250h,Lexus,243,12905,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,UX 250h AWD,Lexus,243,12906,Sedan/Wagon,Hybrid Electric,45,Auto,2.0L I4
+2022,V60 T8 AWD Recharge,Volvo,395,12893,Sedan/Wagon,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2022,Venza AWD,Toyota,221,12991,SUV,Hybrid Electric,45,Auto,2.5L I4
+2022,Wagoneer 4x2,Jeep,275,12866,SUV,Hybrid Electric,45,Auto,5.7L V8
+2022,Wagoneer 4x4,Jeep,275,12867,SUV,Hybrid Electric,45,Auto,5.7L V8
+2022,Wrangler 2dr 4x4,Jeep,275,13028,SUV,Hybrid Electric,45,Auto,3.6L V6
+2022,Wrangler 4dr 4x4,Jeep,275,13029,SUV,Hybrid Electric,45,Auto,3.6L V6
+2022,Wrangler 4dr 4xe,Jeep,275,13038,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+100 kW electric motor"
+2022,X3 M40i,BMW,211,12860,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,X4 M40i,BMW,211,12861,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,X5 sDrive40i,BMW,211,12862,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,X5 xDrive40i,BMW,211,12863,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,X5 xDrive45e,BMW,211,13072,SUV,Plug-in Hybrid Electric,57,Auto,"3.0L I6;
+83 kW electric motor"
+2022,X6 xDrive40i,BMW,211,12864,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,X7 xDrive40i,BMW,211,12865,SUV,Hybrid Electric,45,Auto,3.0L V6
+2022,XC40 Recharge Twin,Volvo,395,12885,SUV,Electric,41,Auto,"150 kW electric motor;
+196 Ah battery"
+2022,XC60 T8 AWD Recharge,Volvo,395,12847,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2022,XC90 T8 AWD Recharge,Volvo,395,12848,SUV,Plug-in Hybrid Electric,57,Auto,"2.0L I4;
+34 & 65 kW electric motors"
+2022,e-tron GT,Audi,377,12949,Sedan/Wagon,Electric,41,Auto,"175 kW electric motor;
+129 Ah battery"
+2022,"e-tron S (20"" wheels)",Audi,377,12950,SUV,Electric,41,Auto,"138kW electric motor;
+240 Ah battery"
+2022,"e-tron S (21"" or 22"" wheels)",Audi,377,12951,SUV,Electric,41,Auto,"138kW electric motor;
+240 Ah battery"
+2022,"e-tron S Sportback (20"" wheels)",Audi,377,12952,SUV,Electric,41,Auto,"138kW electric motor;
+240 Ah battery"
+2022,"e-tron S Sportback (21"" or 22"" wheels)",Audi,377,12953,SUV,Electric,41,Auto,"157kW electric motor;
+240 Ah battery"
+2022,e-tron Sportback quattro,Audi,377,13001,SUV,Electric,41,Auto,"141 kW and 172 kW electric motors;
+240 Ah battery"
+2022,e-tron quattro,Audi,377,13002,SUV,Electric,41,Auto,"141 kW and 172 kW electric motors;
+240 Ah battery"
+2022,"i4 M50 Gran Coupe (19"" Wheels) ",BMW,211,13048,Sedan/Wagon,Electric,41,Auto,"190 and 230 kW electric motors;
+211 Ah battery"
+2022,"i4 M50 Gran Coupe (20"" Wheels) ",BMW,211,13049,Sedan/Wagon,Electric,41,Auto,"190 and 230 kW electric motors;
+211 Ah battery"
+2022,"i4 eDrive40 Gran Coupe (18"" Wheels) ",BMW,211,13047,Sedan/Wagon,Electric,41,Auto,"250 kW electric motor;
+211 Ah battery"
+2022,"i4 eDrive40 Gran Coupe (19"" Wheels) ",BMW,211,13046,Sedan/Wagon,Electric,41,Auto,"250 kW electric motor;
+211 Ah battery"
+2022,"iX xDrive50 (20"" Wheels) ",BMW,211,13050,SUV,Electric,41,Auto,"190 and 230 kW electric motors;
+303 Ah battery"
+2022,"iX xDrive50 (21"" Wheels) ",BMW,211,13051,SUV,Electric,41,Auto,"190 and 230 kW electric motors;
+303 Ah battery"
+2022,"iX xDrive50 (22"" Wheels) ",BMW,211,13052,SUV,Electric,41,Auto,"190 and 230 kW electric motors;
+303 Ah battery"
