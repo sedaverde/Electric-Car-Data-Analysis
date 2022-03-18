@@ -1,0 +1,9 @@
+epaClassificationId,epaClassification,CostMaintenancePerMile,costMaintenanceHybridAdjusted,costMaintenanceEVAdjusted,CostInsuranceperYear,LicenseRegistration
+1,compact,0.0853,0.073,0.0625,1328,466
+2,coupe,0.0853,0.073,0.0625,1328,466
+3,hatchback,0.0918,0.0785,0.0673,1251,661
+4,sedan,0.0918,0.0785,0.0673,1221,807
+5,sport,0.0949,0.0812,0.0696,1328,466
+6,suv,0.096,0.0821,0.0704,1114,862
+7,truck,0.0877,0.075,0.0643,1103,1013
+8,van,0.0873,0.0747,0.064,1236,769
