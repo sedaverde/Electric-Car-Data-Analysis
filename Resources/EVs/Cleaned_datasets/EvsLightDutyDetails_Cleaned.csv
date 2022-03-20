@@ -1,4 +1,4 @@
-Model Year,Model,Manufacturer,Manufacturer ID,Vehicle ID,Category,Fuel,Fuel ID,Transmission Type,Engine Description
+Model_Year,Model,Manufacturer,ManufacturerID,VehicleID,Category,Fuel,FuelID,Transmission_Type,Engine_Description
 2010,Altima,Nissan,217,941,Sedan/Wagon,Hybrid Electric,45,Automatic,
 2010,Camry,Toyota,221,943,Sedan/Wagon,Hybrid Electric,45,Automatic,
 2010,Civic Hybrid,Honda,209,935,Sedan/Wagon,Hybrid Electric,45,Automatic,

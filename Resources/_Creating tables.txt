@@ -1,0 +1,120 @@
+// Creating tables
+
+Table brands as b {
+    brandId int [pk]
+    brandName varchar
+   }
+   
+   Table epaClassification as e {
+    epaClassificationId int [pk]
+    epaClassification varchar
+    costMaintenancePerMile float
+    costMaintenanceHybridAdjusted float
+    costMaintenanceEVAdjusted float
+    costInsurancePerYear int
+    costInspectionPerYear int
+    licenseRegistrationFee int
+  }
+  
+  Table models as m {
+    modelId int [pk, increment] // auto-increment
+    modelName varchar
+    brandId int [pk]
+    epaClassificationId int [pk]
+    fuelTypeId int [pk]
+    retired boolean
+    msrp int
+    epaFuelEconomyEquivalent int
+    accelSec float
+    rangeMilesBatteryOnly int
+    rangeCombined int
+    rangeBatteryPct float
+    rangeGasPct float
+    rangeElectricPriceRatio float
+    rangeTotalPriceRatio float
+    mpgPriceRatio float
+    tankSize float
+  }
+  
+  Table modelSales as ms {
+    dateValue date
+    dateId int [pk]
+    modelId int [pk]
+    monthlySales int
+  }
+  
+  Table modelSalesStats as mss {
+    modelId int [pk]
+    firstSalesDate date
+    lastSalesDate date
+    cumulativeSales int
+    cumulativeRevenue int
+    salesRank int
+    revenueRank int
+    annualGrowthRate float
+  }
+   
+  Table fuelType as ft {
+    fuelTypeId int [pk]
+    fuelType varchar
+    uom varchar
+  } 
+  
+  Table fuelPrice as fp {
+    fuelTypeId int [pk]
+    dateValue date
+    dateId int [pk]
+    price float
+  }
+   
+  Table costOwnership as co {
+    modelId int [pk]
+    mileage10yr int 
+    fuelCost10yr float
+    maintainanceCost10yr float
+    insuranceCost10yr float
+    inspectionCost10yr float
+    financeCost6yr float
+    licenseCost float
+    totalCost10yr float
+    averageMonthlyPayment float
+  }
+  
+  Table State as s {
+    stateId int [pk]
+    stateName varchar
+    stateAbbrev varchar
+  }
+  
+  Table stateCounty as sc {
+    stateId int [pk]
+    countyId int [pk]
+    countyName varchar
+  }
+  
+  Table incomeByYear as i {
+    dateId int 
+    countyId int 
+    perCapitaIncome int
+    monthlySalary float
+    annualGrowthRate float
+  }
+  
+  Table chargingStations as cs {
+    fuelTypeId int [pk]
+    stationId int [pk]
+    stationName varchar
+    latitude varchar
+    longitude varchar
+    openDate date
+    accessCode varchar
+    facilityType varchar
+    streetAddress varchar
+    cityName varchar
+    stateAbbrev varchar
+    zipcode int 
+  }
+  
+  
+  
+  
