@@ -1,0 +1,60 @@
+CREATE TABLE alt_fuel_stations 
+( ID  TEXT,  
+Fuel_Type_Code  TEXT,
+Station_Name  TEXT, 
+Street_Address TEXT, 
+City TEXT, 
+State TEXT,
+ZIP TEXT,
+Access_Days_Time TEXT,
+EV_Network TEXT ,
+Geocode_Status TEXT ,
+Latitude TEXT ,
+Longitude TEXT ,
+Date_Last_Confirmed TEXT ,
+Updated_At TEXT ,
+Open_Date TEXT ,
+EV_Connector_Types TEXT,
+Country TEXT);
+
+CREATE TABLE county_income 
+(County TEXT,
+FIPSC INT,
+FIPS INT,
+State TEXT,
+year_18 INT,
+year_19 INT,
+year_20 INT);
+
+select * from gas_price;
+
+ALTER TABLE county_income
+ALTER COLUMN year_2020 TYPE INT USING REPLACE(year_2020,',',''); 
+
+select CAST(REPLACE(year_2020,',','') AS INT) FROM county_income;
+
+CREATE TABLE gas_price (
+DATE TEXT,
+dateId TEXT,
+pricePerGallonGas FLOAT);
+
+CREATE TABLE total_sales (
+DATE TEXT,
+TOTALSA TEXT);
+
+CREATE TABLE fuel_economy (
+	year int,
+	make TEXT,
+	model TEXT,
+	trany TEXT,
+	rangeCity FLOAT,
+	rangeHwy FLOAT,
+	highway08 INT
+);
+
+select * from fuel_economy;
+
+
+
+
+DROP TABLE electricity_price;
