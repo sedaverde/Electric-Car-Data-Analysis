@@ -1,18 +1,20 @@
 # Electric-Car-Data-Analysis
 
-## Problem
-- What are the primary factors which drive electric car sales in the U.S.?
+## Background
+In recent years, electric vehicles (EV) have become a more viable and popular choice to gasoline powered automobiles. Over thee course of ten years, improvements in battery technology and model design have increased the diversity of EV available for the consumer. We believe that many factors contribute to the increase of the popularity of EV. The purpose of this project is to develop answers to the following questions:
+
+- What are the primary factors which drive electric car sales in the U.S. (eg income level, gasoline/electric prices, diversity of model types, cost of cars, savings on gasoline, availability of charging stations, etc.)?
 - What is our estimated forecast projection for electric car sales using a ML approach?
 
 ### Contributers
 
 | Name | Primary Role |
 |:---|:---|
-| Adai Urieta | |
-| Juan Camarillo | |
-| Matt Kleineck | | 
-| Nielsa R. Lachapelle | |
-| Samad Fassihi | |
+| Adai Urieta |Data Mining, Data Cleaning, Database Development, Machine Learning|
+| Juan Camarillo |Data Manipulation, Dashboard Development, Presentation, As Needed Projects|
+| Matt Kleineck |Data Mining, Data Cleaning, Database Development, Machine Learning| 
+| Nielsa R. Lachapelle |Repository Management, Data Review, Dashboard Development, Presentation|
+| Samad Fassihi |Data Mining, Data Cleaning, Database Development, Machine Learning|
 
 
 ## Project Requirements
@@ -47,7 +49,6 @@
 
 
 ## Results
-
 
 
 ## References
