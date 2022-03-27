@@ -21,8 +21,10 @@ In recent years, electric vehicles (EV) have become a more viable and popular ch
 
 ### Software
 - Jupyter / Colab Notebook with Python 3.7+
-  - Packages: Pandas, SQLAlchemy, Plotly, SkLearn, Requests, Beautiful Soup 
+  - Packages: Pandas, SQLAlchemy, Plotly.express, SkLearn, Spark, pytrends
 - Postgres hosted on AWS
+- Amazon S3 (hosting Raw CSV files)
+- ParseHub (Web Scraping Tool)
 - Tableau
 - dbdiagram.io
 
