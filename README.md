@@ -47,6 +47,9 @@ In recent years, electric vehicles (EV) have become a more viable and popular ch
 3. Winters Method Forecasting for Time Series Data
 4. Present Data Story
 
+## Presentation Links
+https://docs.google.com/presentation/d/1j5DLEuqZcNBLMlDRIU7UmMwGV5vLEUJBTLNXfdYayUk/edit#slide=id.p
+
 ## Summary
 
 
