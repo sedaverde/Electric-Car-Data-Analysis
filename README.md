@@ -49,6 +49,8 @@ In recent years, electric vehicles (EV) have become a more viable and popular ch
 
 ## Presentation Links
 https://docs.google.com/presentation/d/1j5DLEuqZcNBLMlDRIU7UmMwGV5vLEUJBTLNXfdYayUk/edit#slide=id.p
+https://public.tableau.com/views/ElectricVehicleDataAnalysis/Comparisons2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 ## Summary
 
