@@ -59,14 +59,14 @@ https://public.tableau.com/views/ElectricVehicleDataAnalysisComparisons/Comparis
 
 
 ## References
-https://afdc.energy.gov/data/
-https://insideevs.com/news/344007/monthly-plug-in-ev-sales-scorecard-historical-charts/
-https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
-https://www.kaggle.com/geoffnel/evs-one-electric-vehicle-dataset
-https://www.ev-volumes.com/
-https://www.bts.gov/content/gasoline-hybrid-and-electric-vehicle-sales
-https://www.statista.com/topics/4421/the-us-electric-vehicle-industry/#dossierKeyfigures
-https://fred.stlouisfed.org/series/APU000072610
+- https://afdc.energy.gov/data/
+- https://insideevs.com/news/344007/monthly-plug-in-ev-sales-scorecard-historical-charts/
+- https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
+- https://www.kaggle.com/geoffnel/evs-one-electric-vehicle-dataset
+- https://www.ev-volumes.com/
+- https://www.bts.gov/content/gasoline-hybrid-and-electric-vehicle-sales
+- https://www.statista.com/topics/4421/the-us-electric-vehicle-industry/#dossierKeyfigures
+- https://fred.stlouisfed.org/series/APU000072610
 
 
 
