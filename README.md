@@ -63,10 +63,14 @@ https://public.tableau.com/views/ElectricVehicleDataAnalysisComparisons/Comparis
 - https://insideevs.com/news/344007/monthly-plug-in-ev-sales-scorecard-historical-charts/
 - https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
 - https://www.kaggle.com/geoffnel/evs-one-electric-vehicle-dataset
+- https://www.kaggle.com/datasets/prasertk/electric-vehicle-charging-stations-in-usa
 - https://www.ev-volumes.com/
+- https://ev-database.org/#sort:path~type~order=.rank~number~desc|range-slider-range:prev~next=0~1200|range-slider-acceleration:prev~next=2~23|range-slider-topspeed:prev~next=110~450|range-slider-battery:prev~next=10~200|range-slider-towweight:prev~next=0~2500|range-slider-fastcharge:prev~next=0~1500|paging:currentPage=0|paging:number=9
 - https://www.bts.gov/content/gasoline-hybrid-and-electric-vehicle-sales
 - https://www.statista.com/topics/4421/the-us-electric-vehicle-industry/#dossierKeyfigures
+- https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_nus_dpg&f=m
 - https://fred.stlouisfed.org/series/APU000072610
+- https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_nus_dpg&f=m
 
 
 
