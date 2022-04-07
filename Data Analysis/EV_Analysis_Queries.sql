@@ -5,27 +5,7 @@ FROM monthly_sales GROUP BY (date_value)
 ORDER BY date_value ASC
 SELECT * FROM total_monthly_sales;
 
---Correcting datatypes in county_income
-SELECT * FROM county_income;
-
-update county_income
-       set year_2019 = regexp_replace(year_2019, ',','','g');
-update county_income
-       set year_2018 = regexp_replace(year_2018, ',','','g');
-
-ALTER TABLE county_income
-ALTER COLUMN year_2020 TYPE INT USING year_2020::integer;
-ALTER TABLE county_income
-ALTER COLUMN year_2019 TYPE INT USING year_2019::integer;
-ALTER TABLE county_income
-ALTER COLUMN year_2018 TYPE INT USING year_2018::integer;
-
-SELECT * FROM county_income
-WHERE LENGTH(fips) >5;
-
-UPDATE county_income
-	set fips = fipsc WHERE LENGTH(fips) >5;
-
+--Creating join for gas and elctricity price comparison
 SELECT
 	"date",
 	"pricePerGallonGas",
@@ -84,6 +64,7 @@ DELETE FROM altfuel_stations
 WHERE "ID" IS Null
 RETURNING *;
 
+--Editing brands table
 SELECT * FROM brands
 
 --Replacing Null with zero in tanksize
@@ -118,3 +99,75 @@ ALTER TABLE monthly_sales ALTER COLUMN "date_value" TYPE DATE
 using to_date("date_value", 'YYYY-MM');
 ALTER TABLE electic_vehicle_daily_count ALTER COLUMN "Date" TYPE DATE 
 using to_date("Date", 'YYYY-MM');
+
+--Updating open date and adding open month in altfuel_stations
+SELECT * FROM altfuel_stations;
+
+ALTER TABLE altfuel_stations 
+ADD COLUMN "Date";
+
+UPDATE altfuel_stations SET "Open_Date" = "Date";
+
+ALTER TABLE altfuel_stations ALTER COLUMN "Date" TYPE DATE 
+using to_date("Date"::text, 'YYYY-MM');
+
+--Creating ML table
+create table MacLea as 
+SELECT total_monthly_sales.month, total_monthly_sales.sum AS total_EV, 
+   electricity_price.price_per_kwh AS elec_price, gas_price.price AS gas_price, 
+   q1.count AS model_id_count,q3.count AS brand_id_count,q4.sum AS EV_stations,
+   M1.sum AS ElecV_Totals,M2.sum AS Hybrid_Totals
+FROM total_monthly_sales
+--Join to add electricity price
+LEFT JOIN electricity_price
+ON total_monthly_sales.month = electricity_price.month
+--Join to add gas price
+LEFT JOIN gas_price
+ON total_monthly_sales.month = gas_price.month
+--Join to count number of models sold that month
+LEFT JOIN(SELECT month, COUNT(model_id)
+   	FROM monthly_sales 
+	WHERE monthly_sales <> 0
+	GROUP BY (month))as q1
+ON total_monthly_sales.month = q1.month
+--Join to count number of unique manfuacturers sold that month
+LEFT JOIN(SELECT month, COUNT(distinct(brandid))
+   	FROM (SELECT monthly_sales.month, monthly_sales.model_id, 
+	   		monthly_sales.monthly_sales,brands.brandid
+			FROM monthly_sales
+			LEFT JOIN brands
+			ON monthly_sales.model_id = brands.modelid) AS q2
+	WHERE monthly_sales <> 0
+	GROUP BY (month))q3
+ON total_monthly_sales.month = q3.month
+--Join to add running total of EV charging stations available that month
+LEFT JOIN(SELECT month, sum(count(month)) OVER (ORDER BY month)
+   	FROM altfuel_stations 
+	GROUP BY (month))as q4
+ON total_monthly_sales.month = q4.month
+--Join to add total sales of subtype elkectric vehicles
+LEFT JOIN (SELECT SUM(monthly_sales.monthly_sales), monthly_sales.month
+	FROM monthly_sales
+	JOIN brands
+  	ON monthly_sales.model_id = brands.modelid
+    WHERE brands.evtype = 'ev'
+    GROUP BY monthly_sales.month) AS M1
+ON total_monthly_sales.month = M1.month
+--Join to add total sales of subtype hybrid vehicles
+LEFT JOIN (SELECT SUM(monthly_sales.monthly_sales), monthly_sales.month
+	FROM monthly_sales
+	JOIN brands
+  	ON monthly_sales.model_id = brands.modelid
+    WHERE brands.evtype = 'hybrid'
+    GROUP BY monthly_sales.month) AS M2
+ON total_monthly_sales.month = M2.month
+ORDER BY month ASC;
+
+SELECT * FROM maclea;
+UPDATE maclea SET model_id_count = 0, brand_id_count = 0
+WHERE total_EV = 0
+
+--drop row with no total sales--
+DELETE FROM maclea
+WHERE total_ev = 0;
+
