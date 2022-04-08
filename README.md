@@ -52,11 +52,8 @@ https://docs.google.com/presentation/d/1j5DLEuqZcNBLMlDRIU7UmMwGV5vLEUJBTLNXfdYa
 https://public.tableau.com/views/ElectricVehicleDataAnalysis/Comparisons2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/ElectricVehicleDataAnalysisComparisons/Comparisons?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-## Summary
-
-
 ## Results
-
+Our forecasting models predicted that EV sales would continue to grow. Out of five factors evaluated, model and manufacturer had the strongest correlation to EV sales. However, it is unclear whether or not the demand for EVs drives manufacturers to enter the market and probide more choices for the consumer, or if the diversity of choice is driving concumers to purchase EVs.
 
 ## References
 - https://afdc.energy.gov/data/
