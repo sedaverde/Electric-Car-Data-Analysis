@@ -55,6 +55,37 @@ https://public.tableau.com/views/ElectricVehicleDataAnalysisComparisons/Comparis
 ## Results
 Our forecasting models predicted that EV sales would continue to grow. Out of five factors evaluated, model and manufacturer had the strongest correlation to EV sales. However, it is unclear whether or not the demand for EVs drives manufacturers to enter the market and probide more choices for the consumer, or if the diversity of choice is driving concumers to purchase EVs.
 
+## Recommendations for Future Work
+We recommend for those who choose to take this work further or perform their own EV Sales analysis:
+- Consider the weighted average cost of EVs in the analysis.
+  - Hypothesis: The demand for EV's is directly proportional to the mean or median car price (adjusted for inflation) 
+
+The methodology for this calculation is as follows:
+<br>
+Weighted Average Cost =  Σ Monthly EV Model Sales * Model Price / Total EV Sales
+<br>
+- Consider the range differential of electric vehicles to conventional gas-powered or hybrid vehicles. In other words, what impact does the total range on the ev when compared to their gas powered equivalent have on the demand?
+  - Hypothesis: Longer Range EV's are more desirable than shorter range EV's when price is normalized. EV Range Bang for Buck plays a considerable role in Ev demand.
+
+- Other predicting factors of ev demand:
+  - [Brands with Federal tax incentives](https://www.fueleconomy.gov/feg/taxevb.shtml)
+    - Over time, there is some variability in the net cost of an EV or PHEV due to the Federal tax incentive limited to the first 200k ev's sold **per manufacturer**
+    - [Qualified EV and PHEV models](https://www.irs.gov/businesses/irc-30d-new-qualified-plug-in-electric-drive-motor-vehicle-credit) are eligible for up to $7,500 of tax credit from the sale price
+  - [Google Searches related to EV's](https://www.cnn.com/2022/03/24/business/electric-vehicle-google-search-record-climate/index.html)
+  - Availability of EV's due to: 
+    - Supply chain issues
+    - Lack of inventory
+    - Cost of raw materials 
+  - Public sentiment on autonomous driving & alternative fueling options
+    - Safety concerns related to self-driving and/or batteries
+    - Convenience factor of charging vehicles
+  - Economic conditions
+    - Inflation
+    - Changes in GDP
+    - Median Annual Income
+    - Interest Rates
+    - Commodity prices (other than gasoline and electricity)    
+
 ## References
 - https://afdc.energy.gov/data/
 - https://insideevs.com/news/344007/monthly-plug-in-ev-sales-scorecard-historical-charts/
