@@ -71,6 +71,8 @@ Weighted Average Cost =  Σ Monthly EV Model Sales * Model Price / Total EV Sale
   - [Brands with Federal tax incentives](https://www.fueleconomy.gov/feg/taxevb.shtml)
     - Over time, there is some variability in the net cost of an EV or PHEV due to the Federal tax incentive limited to the first 200k ev's sold **per manufacturer**
     - [Qualified EV and PHEV models](https://www.irs.gov/businesses/irc-30d-new-qualified-plug-in-electric-drive-motor-vehicle-credit) are eligible for up to $7,500 of tax credit from the sale price
+  - Lifetime cost of ownership of EV's 
+    - [Annual Fuel and Maintenance cost comparison of EVs to Gasoline vehicles](https://exchange.aaa.com/wp-content/uploads/2019/09/AAA-Your-Driving-Costs-2019.pdf)
   - [Google Searches related to EV's](https://www.cnn.com/2022/03/24/business/electric-vehicle-google-search-record-climate/index.html)
   - Availability of EV's due to: 
     - Supply chain issues
