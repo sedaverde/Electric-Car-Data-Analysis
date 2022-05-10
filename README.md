@@ -13,7 +13,7 @@ In recent years, electric vehicles (EV) have become a more viable and popular ch
 | Adai Urieta |Data Mining, Data Cleaning, Database Development, Machine Learning|
 | Juan Camarillo |Data Manipulation, Dashboard Development, Presentation, As Needed Projects|
 | Matt Kleineck |Data Mining, Data Cleaning, Database Development, Machine Learning| 
-| Nielsa R. Lachapelle |Repository Management, Data Review, Dashboard Development, Presentation|
+| Nielsa R. Lachapelle |Repository Management, Data Review, Dashboard Development, SQL queries, Presentation|
 | Samad Fassihi |Data Mining, Data Cleaning, Database Development, Machine Learning|
 
 
